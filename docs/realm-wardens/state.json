@@ -1,0 +1,1443 @@
+{
+ "art:badge_challenger": {
+  "path": "assets/image/rw_badge_challenger_20261124130415.png",
+  "status": "done",
+  "updated_at": "2026-11-24T21:04:16"
+ },
+ "art:badge_devoted": {
+  "path": "assets/image/rw_badge_devoted_20261124130546.png",
+  "status": "done",
+  "updated_at": "2026-11-24T21:05:46"
+ },
+ "art:badge_first_watch": {
+  "path": "assets/image/rw_badge_first_watch_20261124130105.png",
+  "status": "done",
+  "updated_at": "2026-11-24T21:01:05"
+ },
+ "art:badge_iron_resolve": {
+  "path": "assets/image/rw_badge_iron_resolve_20261124130242.png",
+  "status": "done",
+  "updated_at": "2026-11-24T21:02:42"
+ },
+ "art:badge_legend_elderhold": {
+  "path": "assets/image/rw_badge_legend_elderhold_20261124130312.png",
+  "status": "done",
+  "updated_at": "2026-11-24T21:03:12"
+ },
+ "art:badge_long_night": {
+  "path": "assets/image/rw_badge_long_night_20261124130344.png",
+  "status": "done",
+  "updated_at": "2026-11-24T21:03:45"
+ },
+ "art:badge_master_trials": {
+  "path": "assets/image/rw_badge_master_trials_20261124130443.png",
+  "status": "done",
+  "updated_at": "2026-11-24T21:04:44"
+ },
+ "art:badge_ten_thousand_fallen": {
+  "path": "assets/image/rw_badge_ten_thousand_fallen_20261124130513.png",
+  "status": "done",
+  "updated_at": "2026-11-24T21:05:14"
+ },
+ "art:badge_unbroken_wall": {
+  "path": "assets/image/rw_badge_unbroken_wall_20261124130137.png",
+  "status": "done",
+  "updated_at": "2026-11-24T21:01:37"
+ },
+ "art:badge_warden_five_roads": {
+  "path": "assets/image/rw_badge_warden_five_roads_20261124130211.png",
+  "status": "done",
+  "updated_at": "2026-11-24T21:02:11"
+ },
+ "art:key_art": {
+  "path": "assets/image/rw_key_art_20261124125208.png",
+  "status": "done",
+  "updated_at": "2026-11-24T20:52:08"
+ },
+ "art:logo": {
+  "path": "assets/image/rw_logo_20261124125234.png",
+  "status": "done",
+  "updated_at": "2026-11-24T20:52:34"
+ },
+ "art:map_ashengate": {
+  "path": "assets/image/rw_map_ashengate_20261124130036.png",
+  "status": "done",
+  "updated_at": "2026-11-24T21:00:36"
+ },
+ "art:map_caverns": {
+  "path": "assets/image/rw_map_caverns_20261124125657.png",
+  "status": "done",
+  "updated_at": "2026-11-24T20:56:57"
+ },
+ "art:map_fjord": {
+  "path": "assets/image/rw_map_fjord_20261124125622.png",
+  "status": "done",
+  "updated_at": "2026-11-24T20:56:22"
+ },
+ "art:map_marrowfen": {
+  "path": "assets/image/rw_map_marrowfen_20261124125823.png",
+  "status": "done",
+  "updated_at": "2026-11-24T20:58:24"
+ },
+ "art:map_meadows": {
+  "path": "assets/image/rw_map_meadows_20261124125311.png",
+  "status": "done",
+  "updated_at": "2026-11-24T20:53:11"
+ },
+ "art:map_oasis": {
+  "path": "assets/image/rw_map_oasis_20261124125345.png",
+  "status": "done",
+  "updated_at": "2026-11-24T20:53:45"
+ },
+ "art:map_requiem": {
+  "path": "assets/image/rw_map_requiem_20261124125934.png",
+  "status": "done",
+  "updated_at": "2026-11-24T20:59:34"
+ },
+ "concept:alchemist": {
+  "path": "assets/image/rw_alchemist_concept_20261124114703.png",
+  "status": "done",
+  "updated_at": "2026-11-24T19:47:05"
+ },
+ "concept:aquamancer": {
+  "path": "assets/image/rw_aquamancer_concept_20261124114703.png",
+  "status": "done",
+  "updated_at": "2026-11-24T19:47:05"
+ },
+ "concept:arcantech_commando": {
+  "path": "assets/image/rw_arcantech_commando_concept_20261124114421.png",
+  "status": "done",
+  "updated_at": "2026-11-24T19:44:22"
+ },
+ "concept:archer": {
+  "path": "assets/image/rw_archer_concept_20261124114130.png",
+  "status": "done",
+  "updated_at": "2026-11-24T19:41:31"
+ },
+ "concept:astrapomancer": {
+  "path": "assets/image/rw_astrapomancer_concept_20261124114421.png",
+  "status": "done",
+  "updated_at": "2026-11-24T19:44:22"
+ },
+ "concept:augur_solis": {
+  "path": "assets/image/rw_augur_solis_concept_20261124114944.png",
+  "status": "done",
+  "updated_at": "2026-11-24T19:49:46"
+ },
+ "concept:banner_pole": {
+  "path": "assets/image/rw_banner_pole_concept_20261124122126.png",
+  "status": "done",
+  "updated_at": "2026-11-24T20:21:27"
+ },
+ "concept:barracks_berserker": {
+  "path": "assets/image/rw_barracks_berserker_concept_20261124115226.png",
+  "status": "done",
+  "updated_at": "2026-11-24T19:52:28"
+ },
+ "concept:barracks_defender": {
+  "path": "assets/image/rw_barracks_defender_concept_20261124115226.png",
+  "status": "done",
+  "updated_at": "2026-11-24T19:52:28"
+ },
+ "concept:barracks_dreamknight": {
+  "path": "assets/image/rw_barracks_dreamknight_concept_20261124115226.png",
+  "status": "done",
+  "updated_at": "2026-11-24T19:52:28"
+ },
+ "concept:barracks_footman": {
+  "path": "assets/image/rw_barracks_footman_concept_20261124115226.png",
+  "status": "done",
+  "updated_at": "2026-11-24T19:52:28"
+ },
+ "concept:barracks_golem": {
+  "path": "assets/image/rw_barracks_golem_concept_20261124115506.png",
+  "status": "done",
+  "updated_at": "2026-11-24T19:55:08"
+ },
+ "concept:barracks_king": {
+  "path": "assets/image/rw_barracks_king_concept_20261124115506.png",
+  "status": "done",
+  "updated_at": "2026-11-24T19:55:08"
+ },
+ "concept:barracks_knight": {
+  "path": "assets/image/rw_barracks_knight_concept_20261124115226.png",
+  "status": "done",
+  "updated_at": "2026-11-24T19:52:28"
+ },
+ "concept:bloated_corpse": {
+  "path": "assets/image/rw_bloated_corpse_concept_20261124120112.png",
+  "status": "done",
+  "updated_at": "2026-11-24T20:01:14"
+ },
+ "concept:bones": {
+  "path": "assets/image/rw_bones_concept_20261124121846.png",
+  "status": "done",
+  "updated_at": "2026-11-24T20:18:47"
+ },
+ "concept:brazier": {
+  "path": "assets/image/rw_brazier_concept_20261124121610.png",
+  "status": "done",
+  "updated_at": "2026-11-24T20:16:11"
+ },
+ "concept:bush": {
+  "path": "assets/image/rw_bush_concept_20261124121053.png",
+  "status": "done",
+  "updated_at": "2026-11-24T20:10:55"
+ },
+ "concept:cactus": {
+  "path": "assets/image/rw_cactus_concept_20261124121846.png",
+  "status": "done",
+  "updated_at": "2026-11-24T20:18:47"
+ },
+ "concept:castle_gate": {
+  "path": "assets/image/rw_castle_gate_concept_20261124120539.png",
+  "status": "done",
+  "updated_at": "2026-11-24T20:05:41"
+ },
+ "concept:cleric": {
+  "path": "assets/image/rw_cleric_concept_20261124114703.png",
+  "status": "done",
+  "updated_at": "2026-11-24T19:47:05"
+ },
+ "concept:crossbowman": {
+  "path": "assets/image/rw_crossbowman_concept_20261124114130.png",
+  "status": "done",
+  "updated_at": "2026-11-24T19:41:31"
+ },
+ "concept:crystal_blue": {
+  "path": "assets/image/rw_crystal_blue_concept_20261124121332.png",
+  "status": "done",
+  "updated_at": "2026-11-24T20:13:33"
+ },
+ "concept:crystal_green": {
+  "path": "assets/image/rw_crystal_green_concept_20261124121332.png",
+  "status": "done",
+  "updated_at": "2026-11-24T20:13:33"
+ },
+ "concept:crystal_pink": {
+  "path": "assets/image/rw_crystal_pink_concept_20261124121332.png",
+  "status": "done",
+  "updated_at": "2026-11-24T20:13:33"
+ },
+ "concept:dark_peasant": {
+  "path": "assets/image/rw_dark_peasant_concept_20261124115826.png",
+  "status": "done",
+  "updated_at": "2026-11-24T19:58:28"
+ },
+ "concept:dark_prophet": {
+  "path": "assets/image/rw_dark_prophet_concept_20261124120112.png",
+  "status": "done",
+  "updated_at": "2026-11-24T20:01:14"
+ },
+ "concept:desert_tent": {
+  "path": "assets/image/rw_desert_tent_concept_20261124121610.png",
+  "status": "done",
+  "updated_at": "2026-11-24T20:16:11"
+ },
+ "concept:dreadbat": {
+  "path": "assets/image/rw_dreadbat_concept_20261124115826.png",
+  "status": "done",
+  "updated_at": "2026-11-24T19:58:28"
+ },
+ "concept:farm": {
+  "path": "assets/image/rw_farm_concept_20261124114944.png",
+  "status": "done",
+  "updated_at": "2026-11-24T19:49:46"
+ },
+ "concept:fel_brazier": {
+  "path": "assets/image/rw_fel_brazier_concept_20261124121610.png",
+  "status": "done",
+  "updated_at": "2026-11-24T20:16:11"
+ },
+ "concept:fence": {
+  "path": "assets/image/rw_fence_concept_20261124121846.png",
+  "status": "done",
+  "updated_at": "2026-11-24T20:18:47"
+ },
+ "concept:gold_mine": {
+  "path": "assets/image/rw_gold_mine_concept_20261124114944.png",
+  "status": "done",
+  "updated_at": "2026-11-24T19:49:46"
+ },
+ "concept:great_cannon": {
+  "path": "assets/image/rw_great_cannon_concept_20261124114421.png",
+  "status": "done",
+  "updated_at": "2026-11-24T19:44:22"
+ },
+ "concept:gronn": {
+  "path": "assets/image/rw_gronn_concept_20261124120245.png",
+  "status": "done",
+  "updated_at": "2026-11-24T20:02:47"
+ },
+ "concept:gronnling": {
+  "path": "assets/image/rw_gronnling_concept_20261124120245.png",
+  "status": "done",
+  "updated_at": "2026-11-24T20:02:47"
+ },
+ "concept:grove_warden": {
+  "path": "assets/image/rw_grove_warden_concept_20261124114944.png",
+  "status": "done",
+  "updated_at": "2026-11-24T19:49:46"
+ },
+ "concept:helloc": {
+  "path": "assets/image/rw_helloc_concept_20261124120539.png",
+  "status": "done",
+  "updated_at": "2026-11-24T20:05:41"
+ },
+ "concept:hero": {
+  "path": "assets/image/rw_hero_concept_20261124113646.png",
+  "status": "done",
+  "updated_at": "seed"
+ },
+ "concept:hoplite": {
+  "path": "assets/image/rw_hoplite_concept_20261124114421.png",
+  "status": "done",
+  "updated_at": "2026-11-24T19:44:22"
+ },
+ "concept:house": {
+  "path": "assets/image/rw_house_concept_20261124121332.png",
+  "status": "done",
+  "updated_at": "2026-11-24T20:13:33"
+ },
+ "concept:house_tower": {
+  "path": "assets/image/rw_house_tower_concept_20261124121332.png",
+  "status": "done",
+  "updated_at": "2026-11-24T20:13:33"
+ },
+ "concept:ice_spike": {
+  "path": "assets/image/rw_ice_spike_concept_20261124121846.png",
+  "status": "done",
+  "updated_at": "2026-11-24T20:18:47"
+ },
+ "concept:korlash": {
+  "path": "assets/image/rw_korlash_concept_20261124120539.png",
+  "status": "done",
+  "updated_at": "2026-11-24T20:05:41"
+ },
+ "concept:lava_pool": {
+  "path": "assets/image/rw_lava_pool_concept_20261124122126.png",
+  "status": "done",
+  "updated_at": "2026-11-24T20:21:27"
+ },
+ "concept:lurker": {
+  "path": "assets/image/rw_lurker_concept_20261124115826.png",
+  "status": "done",
+  "updated_at": "2026-11-24T19:58:28"
+ },
+ "concept:magei": {
+  "path": "assets/image/rw_magei_concept_20261124114703.png",
+  "status": "done",
+  "updated_at": "2026-11-24T19:47:05"
+ },
+ "concept:moloc": {
+  "path": "assets/image/rw_moloc_concept_20261124120539.png",
+  "status": "done",
+  "updated_at": "2026-11-24T20:05:41"
+ },
+ "concept:mortar": {
+  "path": "assets/image/rw_mortar_concept_20261124114421.png",
+  "status": "done",
+  "updated_at": "2026-11-24T19:44:22"
+ },
+ "concept:mushroom": {
+  "path": "assets/image/rw_mushroom_concept_20261124121846.png",
+  "status": "done",
+  "updated_at": "2026-11-24T20:18:47"
+ },
+ "concept:necromancer": {
+  "path": "assets/image/rw_necromancer_concept_20261124120112.png",
+  "status": "done",
+  "updated_at": "2026-11-24T20:01:14"
+ },
+ "concept:oathsworn_revenant": {
+  "path": "assets/image/rw_oathsworn_revenant_concept_20261124114703.png",
+  "status": "done",
+  "updated_at": "2026-11-24T19:47:05"
+ },
+ "concept:obelisk": {
+  "path": "assets/image/rw_obelisk_concept_20261124121846.png",
+  "status": "done",
+  "updated_at": "2026-11-24T20:18:47"
+ },
+ "concept:paladin": {
+  "path": "assets/image/rw_paladin_concept_20261124114944.png",
+  "status": "done",
+  "updated_at": "2026-11-24T19:49:46"
+ },
+ "concept:palm_bush": {
+  "path": "assets/image/rw_palm_bush_concept_20261124121053.png",
+  "status": "done",
+  "updated_at": "2026-11-24T20:10:55"
+ },
+ "concept:pillar": {
+  "path": "assets/image/rw_pillar_concept_20261124121610.png",
+  "status": "done",
+  "updated_at": "2026-11-24T20:16:11"
+ },
+ "concept:pillar_broken": {
+  "path": "assets/image/rw_pillar_broken_concept_20261124121610.png",
+  "status": "done",
+  "updated_at": "2026-11-24T20:16:11"
+ },
+ "concept:protodrake": {
+  "path": "assets/image/rw_protodrake_concept_20261124120245.png",
+  "status": "done",
+  "updated_at": "2026-11-24T20:02:47"
+ },
+ "concept:reeds": {
+  "path": "assets/image/rw_reeds_concept_20261124122126.png",
+  "status": "done",
+  "updated_at": "2026-11-24T20:21:27"
+ },
+ "concept:risen_corpse": {
+  "path": "assets/image/rw_risen_corpse_concept_20261124120112.png",
+  "status": "done",
+  "updated_at": "2026-11-24T20:01:14"
+ },
+ "concept:rock_a": {
+  "path": "assets/image/rw_rock_a_concept_20261124121053.png",
+  "status": "done",
+  "updated_at": "2026-11-24T20:10:55"
+ },
+ "concept:rock_b": {
+  "path": "assets/image/rw_rock_b_concept_20261124121053.png",
+  "status": "done",
+  "updated_at": "2026-11-24T20:10:55"
+ },
+ "concept:rock_lava": {
+  "path": "assets/image/rw_rock_lava_concept_20261124121332.png",
+  "status": "done",
+  "updated_at": "2026-11-24T20:13:33"
+ },
+ "concept:rock_sand": {
+  "path": "assets/image/rw_rock_sand_concept_20261124121053.png",
+  "status": "done",
+  "updated_at": "2026-11-24T20:10:55"
+ },
+ "concept:rock_snow": {
+  "path": "assets/image/rw_rock_snow_concept_20261124121053.png",
+  "status": "done",
+  "updated_at": "2026-11-24T20:10:55"
+ },
+ "concept:rocket_battery": {
+  "path": "assets/image/rw_rocket_battery_concept_20261124114421.png",
+  "status": "done",
+  "updated_at": "2026-11-24T19:44:22"
+ },
+ "concept:siphoner": {
+  "path": "assets/image/rw_siphoner_concept_20261124114944.png",
+  "status": "done",
+  "updated_at": "2026-11-24T19:49:46"
+ },
+ "concept:spawn_of_helloc": {
+  "path": "assets/image/rw_spawn_of_helloc_concept_20261124120539.png",
+  "status": "done",
+  "updated_at": "2026-11-24T20:05:41"
+ },
+ "concept:spawn_portal": {
+  "path": "assets/image/rw_spawn_portal_concept_20261124120539.png",
+  "status": "done",
+  "updated_at": "2026-11-24T20:05:41"
+ },
+ "concept:spectral_wight": {
+  "path": "assets/image/rw_spectral_wight_concept_20261124120112.png",
+  "status": "done",
+  "updated_at": "2026-11-24T20:01:14"
+ },
+ "concept:stardaughter": {
+  "path": "assets/image/rw_stardaughter_concept_20261124114703.png",
+  "status": "done",
+  "updated_at": "2026-11-24T19:47:05"
+ },
+ "concept:stone_arch": {
+  "path": "assets/image/rw_stone_arch_concept_20261124121610.png",
+  "status": "done",
+  "updated_at": "2026-11-24T20:16:11"
+ },
+ "concept:summoner": {
+  "path": "assets/image/rw_summoner_concept_20261124120245.png",
+  "status": "done",
+  "updated_at": "2026-11-24T20:02:47"
+ },
+ "concept:tax_collector": {
+  "path": "assets/image/rw_tax_collector_concept_20261124115226.png",
+  "status": "done",
+  "updated_at": "2026-11-24T19:52:27"
+ },
+ "concept:tree_dead": {
+  "path": "assets/image/rw_tree_dead_concept_20261124120817.png",
+  "status": "done",
+  "updated_at": "2026-11-24T20:08:21"
+ },
+ "concept:tree_oak": {
+  "path": "assets/image/rw_tree_oak_concept_20261124120817.png",
+  "status": "done",
+  "updated_at": "2026-11-24T20:08:21"
+ },
+ "concept:tree_palm": {
+  "path": "assets/image/rw_tree_palm_concept_20261124120817.png",
+  "status": "done",
+  "updated_at": "2026-11-24T20:08:21"
+ },
+ "concept:tree_pine": {
+  "path": "assets/image/rw_tree_pine_concept_20261124120817.png",
+  "status": "done",
+  "updated_at": "2026-11-24T20:08:21"
+ },
+ "concept:tree_pine_snow": {
+  "path": "assets/image/rw_tree_pine_snow_concept_20261124120817.png",
+  "status": "done",
+  "updated_at": "2026-11-24T20:08:21"
+ },
+ "concept:tree_willow": {
+  "path": "assets/image/rw_tree_willow_concept_20261124120817.png",
+  "status": "done",
+  "updated_at": "2026-11-24T20:08:21"
+ },
+ "concept:unit_berserker": {
+  "path": "assets/image/rw_unit_berserker_concept_20261124115506.png",
+  "status": "done",
+  "updated_at": "2026-11-24T19:55:08"
+ },
+ "concept:unit_defender": {
+  "path": "assets/image/rw_unit_defender_concept_20261124115506.png",
+  "status": "done",
+  "updated_at": "2026-11-24T19:55:08"
+ },
+ "concept:unit_dreamknight": {
+  "path": "assets/image/rw_unit_dreamknight_concept_20261124115826.png",
+  "status": "done",
+  "updated_at": "2026-11-24T19:58:28"
+ },
+ "concept:unit_footman": {
+  "path": "assets/image/rw_unit_footman_concept_20261124115506.png",
+  "status": "done",
+  "updated_at": "2026-11-24T19:55:08"
+ },
+ "concept:unit_golem": {
+  "path": "assets/image/rw_unit_golem_concept_20261124115826.png",
+  "status": "done",
+  "updated_at": "2026-11-24T19:58:28"
+ },
+ "concept:unit_king": {
+  "path": "assets/image/rw_unit_king_concept_20261124115826.png",
+  "status": "done",
+  "updated_at": "2026-11-24T19:58:28"
+ },
+ "concept:unit_knight": {
+  "path": "assets/image/rw_unit_knight_concept_20261124115506.png",
+  "status": "done",
+  "updated_at": "2026-11-24T19:55:08"
+ },
+ "concept:wight": {
+  "path": "assets/image/rw_wight_concept_20261124120112.png",
+  "status": "done",
+  "updated_at": "2026-11-24T20:01:14"
+ },
+ "concept:wraith_lord": {
+  "path": "assets/image/rw_wraith_lord_concept_20261124120245.png",
+  "status": "done",
+  "updated_at": "2026-11-24T20:02:47"
+ },
+ "concept:wraith_witch": {
+  "path": "assets/image/rw_wraith_witch_concept_20261124120245.png",
+  "status": "done",
+  "updated_at": "2026-11-24T20:02:47"
+ },
+ "model:alchemist": {
+  "asset_id": "9f2be740755a41a795d0bf299041ef1c",
+  "model_path": "assets/model/9f2be740755a41a795d0bf299041ef1c/Meshes/9f2be740755a41a795d0bf299041ef1c.mdl",
+  "quality": "balanced",
+  "remote_url": "https://tapcode-sce.spark.xd.com/art-resource-search/generated-assets/sessions/05610c02-43bf-46ed-b1be-04c09266e48e/9f2be740755a41a795d0bf299041ef1c/output/mdl/base.zip",
+  "status": "done",
+  "step": "convert_to_mdl",
+  "task_id": "29b6c6df-b675-4464-87ab-0b434bc8af3a",
+  "updated_at": "2026-11-24T20:24:47"
+ },
+ "model:aquamancer": {
+  "asset_id": "90f7e9b5604d45a0ac1a37d0db0885f4",
+  "model_path": "assets/model/90f7e9b5604d45a0ac1a37d0db0885f4/Meshes/90f7e9b5604d45a0ac1a37d0db0885f4.mdl",
+  "quality": "balanced",
+  "remote_url": "https://tapcode-sce.spark.xd.com/art-resource-search/generated-assets/sessions/acc56906-55b8-4539-ac01-4afd9a695518/90f7e9b5604d45a0ac1a37d0db0885f4/output/mdl/base.zip",
+  "status": "done",
+  "step": "convert_to_mdl",
+  "task_id": "371bb52e-38fb-4a4e-92a8-c36c5ffcf52e",
+  "updated_at": "2026-11-24T20:25:13"
+ },
+ "model:arcantech_commando": {
+  "asset_id": "263ce7b1594442b7ba27f04a05913674",
+  "model_path": "assets/model/263ce7b1594442b7ba27f04a05913674/Meshes/263ce7b1594442b7ba27f04a05913674.mdl",
+  "quality": "balanced",
+  "remote_url": "https://tapcode-sce.spark.xd.com/art-resource-search/generated-assets/sessions/8dcffdbc-58aa-45e7-82bc-14d68dfca1bb/263ce7b1594442b7ba27f04a05913674/output/mdl/base.zip",
+  "status": "done",
+  "step": "convert_to_mdl",
+  "task_id": "d840a015-40d9-4eb2-a875-6923134907fe",
+  "updated_at": "2026-11-24T20:23:42"
+ },
+ "model:archer": {
+  "asset_id": "a1337aad5eae442187a5720ee9f3e6b8",
+  "model_path": "assets/model/a1337aad5eae442187a5720ee9f3e6b8/Meshes/a1337aad5eae442187a5720ee9f3e6b8.mdl",
+  "quality": "balanced",
+  "remote_url": "https://tapcode-sce.spark.xd.com/art-resource-search/generated-assets/sessions/261c9e89-b8a7-4af8-bea2-40fe23638caa/a1337aad5eae442187a5720ee9f3e6b8/output/mdl/base.zip",
+  "status": "done",
+  "step": "convert_to_mdl",
+  "task_id": "fc5e134a-da81-46c2-a31d-b0aa6f6ccbc8",
+  "updated_at": "2026-11-24T20:22:35"
+ },
+ "model:astrapomancer": {
+  "asset_id": "a1f83a2b6aa84ff4afeb6a6d52e0941c",
+  "model_path": "assets/model/a1f83a2b6aa84ff4afeb6a6d52e0941c/Meshes/a1f83a2b6aa84ff4afeb6a6d52e0941c.mdl",
+  "quality": "balanced",
+  "remote_url": "https://tapcode-sce.spark.xd.com/art-resource-search/generated-assets/sessions/4fb480ba-6e5b-45f0-b0df-bf40dcfa29e4/a1f83a2b6aa84ff4afeb6a6d52e0941c/output/mdl/base.zip",
+  "status": "done",
+  "step": "convert_to_mdl",
+  "task_id": "18cfe624-3204-48d4-b379-ec4f02373534",
+  "updated_at": "2026-11-24T20:23:36"
+ },
+ "model:augur_solis": {
+  "asset_id": "9b1f7039f89442cb9d2966a8d898bbc7",
+  "model_path": "assets/model/9b1f7039f89442cb9d2966a8d898bbc7/Meshes/9b1f7039f89442cb9d2966a8d898bbc7.mdl",
+  "quality": "high_quality",
+  "remote_url": "https://tapcode-sce.spark.xd.com/art-resource-search/generated-assets/sessions/be02ba1e-b7fd-470d-8d6e-f7c1ac9a38e5/9b1f7039f89442cb9d2966a8d898bbc7/output/mdl/base.zip",
+  "status": "done",
+  "step": "convert_to_mdl",
+  "task_id": "9949cc06-4bc2-45f8-8949-a6b388ebb518",
+  "updated_at": "2026-11-24T20:27:29"
+ },
+ "model:banner_pole": {
+  "asset_id": "f9c1a1a3dbad459e8ba5f4587ab9049c",
+  "model_path": "assets/model/f9c1a1a3dbad459e8ba5f4587ab9049c/Meshes/f9c1a1a3dbad459e8ba5f4587ab9049c.mdl",
+  "quality": "fast",
+  "remote_url": "https://tapcode-sce.spark.xd.com/art-resource-search/generated-assets/sessions/10d36de7-4a6c-4a96-9339-7283b1f86698/f9c1a1a3dbad459e8ba5f4587ab9049c/output/mdl/base.zip",
+  "status": "done",
+  "step": "convert_to_mdl",
+  "task_id": "087eb3b5-fa5c-46bd-9dd5-e10c0baee20d",
+  "updated_at": "2026-11-24T20:50:33"
+ },
+ "model:barracks_berserker": {
+  "asset_id": "cab37618d9a84be39a7001d77e94242f",
+  "model_path": "assets/model/cab37618d9a84be39a7001d77e94242f/Meshes/cab37618d9a84be39a7001d77e94242f.mdl",
+  "quality": "balanced",
+  "remote_url": "https://tapcode-sce.spark.xd.com/art-resource-search/generated-assets/sessions/0c473f12-834e-43ee-adfe-a5a696558b41/cab37618d9a84be39a7001d77e94242f/output/mdl/base.zip",
+  "status": "done",
+  "step": "convert_to_mdl",
+  "task_id": "ae0e3868-63df-44a3-985d-afbbf650da3e",
+  "updated_at": "2026-11-24T20:29:06"
+ },
+ "model:barracks_defender": {
+  "asset_id": "cfa4a3291c4540e7af73472c57b522bf",
+  "model_path": "assets/model/cfa4a3291c4540e7af73472c57b522bf/Meshes/cfa4a3291c4540e7af73472c57b522bf.mdl",
+  "quality": "balanced",
+  "remote_url": "https://tapcode-sce.spark.xd.com/art-resource-search/generated-assets/sessions/21b915ee-f23d-45b7-8694-79b0109cce86/cfa4a3291c4540e7af73472c57b522bf/output/mdl/base.zip",
+  "status": "done",
+  "step": "convert_to_mdl",
+  "task_id": "4a050519-eefc-4c4a-a8df-f5346788f8c8",
+  "updated_at": "2026-11-24T20:29:49"
+ },
+ "model:barracks_dreamknight": {
+  "asset_id": "3607b611aadd43739af80c9bc3583968",
+  "model_path": "assets/model/3607b611aadd43739af80c9bc3583968/Meshes/3607b611aadd43739af80c9bc3583968.mdl",
+  "quality": "balanced",
+  "remote_url": "https://tapcode-sce.spark.xd.com/art-resource-search/generated-assets/sessions/31cff127-630c-48ce-be0b-1670c85f7519/3607b611aadd43739af80c9bc3583968/output/mdl/base.zip",
+  "status": "done",
+  "step": "convert_to_mdl",
+  "task_id": "111bef83-61ca-4d25-9108-d803fcc93855",
+  "updated_at": "2026-11-24T20:29:51"
+ },
+ "model:barracks_footman": {
+  "asset_id": "a345948423f84d28bbe2288a4faf7d4f",
+  "model_path": "assets/model/a345948423f84d28bbe2288a4faf7d4f/Meshes/a345948423f84d28bbe2288a4faf7d4f.mdl",
+  "quality": "balanced",
+  "remote_url": "https://tapcode-sce.spark.xd.com/art-resource-search/generated-assets/sessions/66e975ce-9081-45f0-82cc-459729150b22/a345948423f84d28bbe2288a4faf7d4f/output/mdl/base.zip",
+  "status": "done",
+  "step": "convert_to_mdl",
+  "task_id": "ca8c776d-bcae-4c61-a6a5-c3bee8fa0774",
+  "updated_at": "2026-11-24T20:28:34"
+ },
+ "model:barracks_golem": {
+  "asset_id": "76bf5596999540eb939182fa5998765a",
+  "model_path": "assets/model/76bf5596999540eb939182fa5998765a/Meshes/76bf5596999540eb939182fa5998765a.mdl",
+  "quality": "balanced",
+  "remote_url": "https://tapcode-sce.spark.xd.com/art-resource-search/generated-assets/sessions/cdf5697e-f5b3-40d4-a06b-b487d72a6846/76bf5596999540eb939182fa5998765a/output/mdl/base.zip",
+  "status": "done",
+  "step": "convert_to_mdl",
+  "task_id": "d21b1b6e-d803-4cc0-a478-d5a2b631d6a0",
+  "updated_at": "2026-11-24T20:30:07"
+ },
+ "model:barracks_king": {
+  "asset_id": "8d0f37096bad4136960e69270a6897f2",
+  "model_path": "assets/model/8d0f37096bad4136960e69270a6897f2/Meshes/8d0f37096bad4136960e69270a6897f2.mdl",
+  "quality": "balanced",
+  "remote_url": "https://tapcode-sce.spark.xd.com/art-resource-search/generated-assets/sessions/96c8b290-8956-41d0-a0cd-8ac7f0db1594/8d0f37096bad4136960e69270a6897f2/output/mdl/base.zip",
+  "status": "done",
+  "step": "convert_to_mdl",
+  "task_id": "8dbff22f-02d5-442a-b1d2-6e4bceb658c8",
+  "updated_at": "2026-11-24T20:30:58"
+ },
+ "model:barracks_knight": {
+  "asset_id": "944d9a69fb1440f8b4685bf388106f5b",
+  "model_path": "assets/model/944d9a69fb1440f8b4685bf388106f5b/Meshes/944d9a69fb1440f8b4685bf388106f5b.mdl",
+  "quality": "balanced",
+  "remote_url": "https://tapcode-sce.spark.xd.com/art-resource-search/generated-assets/sessions/0666c43e-6f4d-461d-9a91-3b971897a294/944d9a69fb1440f8b4685bf388106f5b/output/mdl/base.zip",
+  "status": "done",
+  "step": "convert_to_mdl",
+  "task_id": "3518294c-8177-4155-a424-6859579b53b7",
+  "updated_at": "2026-11-24T20:29:57"
+ },
+ "model:bloated_corpse": {
+  "asset_id": "3b2a985744ae4632b006b84e2d0fd1df",
+  "model_path": "assets/model/3b2a985744ae4632b006b84e2d0fd1df/Meshes/3b2a985744ae4632b006b84e2d0fd1df.mdl",
+  "quality": "balanced",
+  "remote_url": "https://tapcode-sce.spark.xd.com/art-resource-search/generated-assets/sessions/e8504dad-3888-4665-81a2-ae216c80c32e/3b2a985744ae4632b006b84e2d0fd1df/output/mdl/base.zip",
+  "status": "done",
+  "step": "convert_to_mdl",
+  "task_id": "e21f12ae-d734-42c7-afe1-62973769b419",
+  "updated_at": "2026-11-24T20:33:48"
+ },
+ "model:bones": {
+  "asset_id": "a1f782f2fa264ed0bd1f004f997adb4c",
+  "model_path": "assets/model/a1f782f2fa264ed0bd1f004f997adb4c/Meshes/a1f782f2fa264ed0bd1f004f997adb4c.mdl",
+  "quality": "fast",
+  "remote_url": "https://tapcode-sce.spark.xd.com/art-resource-search/generated-assets/sessions/27b568a1-a2ea-4374-bb8f-8892c4d5070d/a1f782f2fa264ed0bd1f004f997adb4c/output/mdl/base.zip",
+  "status": "done",
+  "step": "convert_to_mdl",
+  "task_id": "0f2c4477-bba8-446f-ba19-02664845f5bf",
+  "updated_at": "2026-11-24T20:48:35"
+ },
+ "model:brazier": {
+  "asset_id": "e0bf97f962304555991a23115cfe0fae",
+  "model_path": "assets/model/e0bf97f962304555991a23115cfe0fae/Meshes/e0bf97f962304555991a23115cfe0fae.mdl",
+  "quality": "fast",
+  "remote_url": "https://tapcode-sce.spark.xd.com/art-resource-search/generated-assets/sessions/26c09379-b4e0-43b4-b1da-768bf42bb222/e0bf97f962304555991a23115cfe0fae/output/mdl/base.zip",
+  "status": "done",
+  "step": "convert_to_mdl",
+  "task_id": "94a638b8-f062-4d28-9342-69934647a569",
+  "updated_at": "2026-11-24T20:48:03"
+ },
+ "model:bush": {
+  "asset_id": "bb37ff78b1d0487b9771a2434fcf1857",
+  "model_path": "assets/model/bb37ff78b1d0487b9771a2434fcf1857/Meshes/bb37ff78b1d0487b9771a2434fcf1857.mdl",
+  "quality": "fast",
+  "remote_url": "https://tapcode-sce.spark.xd.com/art-resource-search/generated-assets/sessions/9f2c449a-ffe1-437f-bf50-67dd728bee3b/bb37ff78b1d0487b9771a2434fcf1857/output/mdl/base.zip",
+  "status": "done",
+  "step": "convert_to_mdl",
+  "task_id": "746fd880-76df-45ad-932e-71e5ac5417e7",
+  "updated_at": "2026-11-24T20:43:28"
+ },
+ "model:cactus": {
+  "asset_id": "2f39d799e4d446a9954068347c5694a2",
+  "model_path": "assets/model/2f39d799e4d446a9954068347c5694a2/Meshes/2f39d799e4d446a9954068347c5694a2.mdl",
+  "quality": "fast",
+  "remote_url": "https://tapcode-sce.spark.xd.com/art-resource-search/generated-assets/sessions/ed542461-6d57-42d0-a0f2-8e8574fe5a13/2f39d799e4d446a9954068347c5694a2/output/mdl/base.zip",
+  "status": "done",
+  "step": "convert_to_mdl",
+  "task_id": "579bcb68-1285-468a-91f9-ed87162be66e",
+  "updated_at": "2026-11-24T20:50:32"
+ },
+ "model:castle_gate": {
+  "asset_id": "c6b937335229446d993dc0dc850f0301",
+  "model_path": "assets/model/c6b937335229446d993dc0dc850f0301/Meshes/c6b937335229446d993dc0dc850f0301.mdl",
+  "quality": "fast",
+  "remote_url": "https://tapcode-sce.spark.xd.com/art-resource-search/generated-assets/sessions/31cb6957-4b0a-4262-9f58-d3053566baaa/c6b937335229446d993dc0dc850f0301/output/mdl/base.zip",
+  "status": "done",
+  "step": "convert_to_mdl",
+  "task_id": "bd74acd2-efc0-4072-9ebd-b04b938f8b6b",
+  "updated_at": "2026-11-24T20:41:40"
+ },
+ "model:cleric": {
+  "asset_id": "f2c262fff1fe4088b3df82f07f35e27a",
+  "model_path": "assets/model/f2c262fff1fe4088b3df82f07f35e27a/Meshes/f2c262fff1fe4088b3df82f07f35e27a.mdl",
+  "quality": "balanced",
+  "remote_url": "https://tapcode-sce.spark.xd.com/art-resource-search/generated-assets/sessions/e2dc0f86-8fbf-47d3-9404-63568f8ba4f6/f2c262fff1fe4088b3df82f07f35e27a/output/mdl/base.zip",
+  "status": "done",
+  "step": "convert_to_mdl",
+  "task_id": "19aa2772-ce33-4de4-aa28-3c67cc10bfca",
+  "updated_at": "2026-11-24T20:25:47"
+ },
+ "model:crossbowman": {
+  "asset_id": "1bd0bb14a88643f0bed8fc810750fa05",
+  "model_path": "assets/model/1bd0bb14a88643f0bed8fc810750fa05/Meshes/1bd0bb14a88643f0bed8fc810750fa05.mdl",
+  "quality": "balanced",
+  "remote_url": "https://tapcode-sce.spark.xd.com/art-resource-search/generated-assets/sessions/455f7feb-679c-4515-ae1d-eba7e47fad03/1bd0bb14a88643f0bed8fc810750fa05/output/mdl/base.zip",
+  "status": "done",
+  "step": "convert_to_mdl",
+  "task_id": "c9170a3c-f12e-4ca9-910d-c6dfef471940",
+  "updated_at": "2026-11-24T20:22:30"
+ },
+ "model:crystal_blue": {
+  "asset_id": "4853037b7de74504abaac889a24ebc98",
+  "model_path": "assets/model/4853037b7de74504abaac889a24ebc98/Meshes/4853037b7de74504abaac889a24ebc98.mdl",
+  "quality": "fast",
+  "remote_url": "https://tapcode-sce.spark.xd.com/art-resource-search/generated-assets/sessions/3ec70658-2cd9-4013-a2fd-16007ae6f33f/4853037b7de74504abaac889a24ebc98/output/mdl/base.zip",
+  "status": "done",
+  "step": "convert_to_mdl",
+  "task_id": "ad65a050-35bf-4692-8669-0e3df9cf60bb",
+  "updated_at": "2026-11-24T20:44:14"
+ },
+ "model:crystal_green": {
+  "asset_id": "461015adc7aa49a69ad400818d291a78",
+  "model_path": "assets/model/461015adc7aa49a69ad400818d291a78/Meshes/461015adc7aa49a69ad400818d291a78.mdl",
+  "quality": "fast",
+  "remote_url": "https://tapcode-sce.spark.xd.com/art-resource-search/generated-assets/sessions/819888d5-7bd2-42d1-82af-a6117d7f0d4a/461015adc7aa49a69ad400818d291a78/output/mdl/base.zip",
+  "status": "done",
+  "step": "convert_to_mdl",
+  "task_id": "63c3c73e-58c7-46b9-b297-3cf58f6d2a1f",
+  "updated_at": "2026-11-24T20:44:39"
+ },
+ "model:crystal_pink": {
+  "asset_id": "378a4fe12e7e4c27b9fbf10123c1ffe4",
+  "model_path": "assets/model/378a4fe12e7e4c27b9fbf10123c1ffe4/Meshes/378a4fe12e7e4c27b9fbf10123c1ffe4.mdl",
+  "quality": "fast",
+  "remote_url": "https://tapcode-sce.spark.xd.com/art-resource-search/generated-assets/sessions/38077cb1-f775-46b2-b09c-f732380723c1/378a4fe12e7e4c27b9fbf10123c1ffe4/output/mdl/base.zip",
+  "status": "done",
+  "step": "convert_to_mdl",
+  "task_id": "5426dfd7-f45f-4f04-8dee-8432fc987107",
+  "updated_at": "2026-11-24T20:45:23"
+ },
+ "model:dark_peasant": {
+  "asset_id": "27190e11c3304bd49827c8fe6ab008cb",
+  "model_path": "assets/model/27190e11c3304bd49827c8fe6ab008cb/Meshes/27190e11c3304bd49827c8fe6ab008cb.mdl",
+  "quality": "balanced",
+  "remote_url": "https://tapcode-sce.spark.xd.com/art-resource-search/generated-assets/sessions/ec2c084e-2782-49a1-be64-9213d632a832/27190e11c3304bd49827c8fe6ab008cb/output/mdl/base.zip",
+  "status": "done",
+  "step": "convert_to_mdl",
+  "task_id": "10a37442-f233-4cc7-b31c-3af7fa5084da",
+  "updated_at": "2026-11-24T20:32:32"
+ },
+ "model:dark_prophet": {
+  "asset_id": "736e2adde7a747f18c9063dd25a65fac",
+  "model_path": "assets/model/736e2adde7a747f18c9063dd25a65fac/Meshes/736e2adde7a747f18c9063dd25a65fac.mdl",
+  "quality": "balanced",
+  "remote_url": "https://tapcode-sce.spark.xd.com/art-resource-search/generated-assets/sessions/f45cd687-2fe3-4d88-9ddd-f48734a29e3c/736e2adde7a747f18c9063dd25a65fac/output/mdl/base.zip",
+  "status": "done",
+  "step": "convert_to_mdl",
+  "task_id": "82c18c71-6d78-47aa-abe1-76b27e470431",
+  "updated_at": "2026-11-24T20:34:49"
+ },
+ "model:desert_tent": {
+  "asset_id": "2530942d6977430a8c63dc0afd129994",
+  "model_path": "assets/model/2530942d6977430a8c63dc0afd129994/Meshes/2530942d6977430a8c63dc0afd129994.mdl",
+  "quality": "fast",
+  "remote_url": "https://tapcode-sce.spark.xd.com/art-resource-search/generated-assets/sessions/453b1435-a62f-4aa0-bddf-1c0b4ab0be49/2530942d6977430a8c63dc0afd129994/output/mdl/base.zip",
+  "status": "done",
+  "step": "convert_to_mdl",
+  "task_id": "802b8cb1-c2dd-4b9b-a0c9-c160582c2aeb",
+  "updated_at": "2026-11-24T20:46:38"
+ },
+ "model:dreadbat": {
+  "asset_id": "7a7e1eb145f549b298e8b75c9c978342",
+  "model_path": "assets/model/7a7e1eb145f549b298e8b75c9c978342/Meshes/7a7e1eb145f549b298e8b75c9c978342.mdl",
+  "quality": "balanced",
+  "remote_url": "https://tapcode-sce.spark.xd.com/art-resource-search/generated-assets/sessions/80075b2b-4f4d-4641-a3c2-ff244a1ad8c0/7a7e1eb145f549b298e8b75c9c978342/output/mdl/base.zip",
+  "status": "done",
+  "step": "convert_to_mdl",
+  "task_id": "ddfd592c-a016-4235-bd66-7cda73876f80",
+  "updated_at": "2026-11-24T20:32:56"
+ },
+ "model:farm": {
+  "asset_id": "2cae37f5a3854ba3aba791e24b42953b",
+  "model_path": "assets/model/2cae37f5a3854ba3aba791e24b42953b/Meshes/2cae37f5a3854ba3aba791e24b42953b.mdl",
+  "quality": "balanced",
+  "remote_url": "https://tapcode-sce.spark.xd.com/art-resource-search/generated-assets/sessions/e8c10d5b-f6da-4402-b640-037da7600dd3/2cae37f5a3854ba3aba791e24b42953b/output/mdl/base.zip",
+  "status": "done",
+  "step": "convert_to_mdl",
+  "task_id": "842d9c1a-1f79-41c1-9340-be11a66ef184",
+  "updated_at": "2026-11-24T20:27:51"
+ },
+ "model:fel_brazier": {
+  "asset_id": "d84d5fc0be1741bf85bcbb61865e3f6f",
+  "model_path": "assets/model/d84d5fc0be1741bf85bcbb61865e3f6f/Meshes/d84d5fc0be1741bf85bcbb61865e3f6f.mdl",
+  "quality": "fast",
+  "remote_url": "https://tapcode-sce.spark.xd.com/art-resource-search/generated-assets/sessions/2aada5ec-c78e-4f60-95ba-fee3daf00022/d84d5fc0be1741bf85bcbb61865e3f6f/output/mdl/base.zip",
+  "status": "done",
+  "step": "convert_to_mdl",
+  "task_id": "db71b081-540e-4e40-9b64-00eebaa862fc",
+  "updated_at": "2026-11-24T20:46:38"
+ },
+ "model:fence": {
+  "asset_id": "f9c3849902a04a288294e2f5de57ae7c",
+  "model_path": "assets/model/f9c3849902a04a288294e2f5de57ae7c/Meshes/f9c3849902a04a288294e2f5de57ae7c.mdl",
+  "quality": "fast",
+  "remote_url": "https://tapcode-sce.spark.xd.com/art-resource-search/generated-assets/sessions/a5547a76-d0d0-44d7-bca7-889aa18a8485/f9c3849902a04a288294e2f5de57ae7c/output/mdl/base.zip",
+  "status": "done",
+  "step": "convert_to_mdl",
+  "task_id": "e428f15e-1f57-44f7-b32e-050c34024f7b",
+  "updated_at": "2026-11-24T20:50:20"
+ },
+ "model:gold_mine": {
+  "asset_id": "4cc264ab438e4d83b26a1cbf0306f30f",
+  "model_path": "assets/model/4cc264ab438e4d83b26a1cbf0306f30f/Meshes/4cc264ab438e4d83b26a1cbf0306f30f.mdl",
+  "quality": "balanced",
+  "remote_url": "https://tapcode-sce.spark.xd.com/art-resource-search/generated-assets/sessions/d2fe5227-70db-4de0-87e3-0b03b486147d/4cc264ab438e4d83b26a1cbf0306f30f/output/mdl/base.zip",
+  "status": "done",
+  "step": "convert_to_mdl",
+  "task_id": "5ac89931-6068-4220-9fea-849cf658654d",
+  "updated_at": "2026-11-24T20:28:17"
+ },
+ "model:great_cannon": {
+  "asset_id": "c3e01f5ece4e4aa9a21d196817e063ca",
+  "model_path": "assets/model/c3e01f5ece4e4aa9a21d196817e063ca/Meshes/c3e01f5ece4e4aa9a21d196817e063ca.mdl",
+  "quality": "balanced",
+  "remote_url": "https://tapcode-sce.spark.xd.com/art-resource-search/generated-assets/sessions/92b06d1c-98e2-46f0-8900-0aefbf0ba694/c3e01f5ece4e4aa9a21d196817e063ca/output/mdl/base.zip",
+  "status": "done",
+  "step": "convert_to_mdl",
+  "task_id": "d8f4df89-0f8b-4171-948e-22d32b73f0bd",
+  "updated_at": "2026-11-24T20:23:27"
+ },
+ "model:gronn": {
+  "asset_id": "3075fbcaf39a4a6c922b26e063e90ddb",
+  "model_path": "assets/model/3075fbcaf39a4a6c922b26e063e90ddb/Meshes/3075fbcaf39a4a6c922b26e063e90ddb.mdl",
+  "quality": "high_quality",
+  "remote_url": "https://tapcode-sce.spark.xd.com/art-resource-search/generated-assets/sessions/9554660a-c67e-46bc-acc3-9eb6bd47e080/3075fbcaf39a4a6c922b26e063e90ddb/output/mdl/base.zip",
+  "status": "done",
+  "step": "convert_to_mdl",
+  "task_id": "4d5af3d5-3680-4e35-8dba-284506125b2b",
+  "updated_at": "2026-11-24T20:35:30"
+ },
+ "model:gronnling": {
+  "asset_id": "074caa93f31446b78047ae8c1f4a259b",
+  "model_path": "assets/model/074caa93f31446b78047ae8c1f4a259b/Meshes/074caa93f31446b78047ae8c1f4a259b.mdl",
+  "quality": "balanced",
+  "remote_url": "https://tapcode-sce.spark.xd.com/art-resource-search/generated-assets/sessions/10ca7bd7-1c12-4aa4-a89f-9034f1dff5ba/074caa93f31446b78047ae8c1f4a259b/output/mdl/base.zip",
+  "status": "done",
+  "step": "convert_to_mdl",
+  "task_id": "7067e16a-30e6-46fd-b077-536dbeee1ef6",
+  "updated_at": "2026-11-24T20:35:45"
+ },
+ "model:grove_warden": {
+  "asset_id": "de778be19a1e463d952c8d7b6f3f6a70",
+  "model_path": "assets/model/de778be19a1e463d952c8d7b6f3f6a70/Meshes/de778be19a1e463d952c8d7b6f3f6a70.mdl",
+  "quality": "high_quality",
+  "remote_url": "https://tapcode-sce.spark.xd.com/art-resource-search/generated-assets/sessions/6aee55da-3294-4d6b-b353-f9a5a4fcd967/de778be19a1e463d952c8d7b6f3f6a70/output/mdl/base.zip",
+  "status": "done",
+  "step": "convert_to_mdl",
+  "task_id": "e3c6b260-afc5-4113-a85a-43ade0e9b9b0",
+  "updated_at": "2026-11-24T20:26:38"
+ },
+ "model:helloc": {
+  "asset_id": "43fdce42cdc84aa9808122c1c5963ad7",
+  "model_path": "assets/model/43fdce42cdc84aa9808122c1c5963ad7/Meshes/43fdce42cdc84aa9808122c1c5963ad7.mdl",
+  "quality": "high_quality",
+  "remote_url": "https://tapcode-sce.spark.xd.com/art-resource-search/generated-assets/sessions/71d4acbe-e335-4a93-ae24-e76c22e04b18/43fdce42cdc84aa9808122c1c5963ad7/output/mdl/base.zip",
+  "status": "done",
+  "step": "convert_to_mdl",
+  "task_id": "5033c93d-cde1-4307-8326-b1dc5b075b93",
+  "updated_at": "2026-11-24T20:40:43"
+ },
+ "model:hero": {
+  "asset_id": "9449004a0bf147b8a48994140784dc9f",
+  "model_path": "assets/model/9449004a0bf147b8a48994140784dc9f/Meshes/9449004a0bf147b8a48994140784dc9f.mdl",
+  "status": "done",
+  "updated_at": "seed"
+ },
+ "model:hoplite": {
+  "asset_id": "238902cb5c7b4e2f9865e5eb81138e19",
+  "model_path": "assets/model/238902cb5c7b4e2f9865e5eb81138e19/Meshes/238902cb5c7b4e2f9865e5eb81138e19.mdl",
+  "quality": "balanced",
+  "remote_url": "https://tapcode-sce.spark.xd.com/art-resource-search/generated-assets/sessions/485e5552-6ed7-479d-a70d-b378104e7ba6/238902cb5c7b4e2f9865e5eb81138e19/output/mdl/base.zip",
+  "status": "done",
+  "step": "convert_to_mdl",
+  "task_id": "b4b7a22d-1f85-4b8a-beb9-873820e659e9",
+  "updated_at": "2026-11-24T20:22:28"
+ },
+ "model:house": {
+  "asset_id": "3eef0ad4decd49829e7805baf63b1aaf",
+  "model_path": "assets/model/3eef0ad4decd49829e7805baf63b1aaf/Meshes/3eef0ad4decd49829e7805baf63b1aaf.mdl",
+  "quality": "fast",
+  "remote_url": "https://tapcode-sce.spark.xd.com/art-resource-search/generated-assets/sessions/d5f8be71-74bd-4f2a-9967-9d3bc0176932/3eef0ad4decd49829e7805baf63b1aaf/output/mdl/base.zip",
+  "status": "done",
+  "step": "convert_to_mdl",
+  "task_id": "526cc07a-3407-42bc-9316-f992110fd97e",
+  "updated_at": "2026-11-24T20:44:43"
+ },
+ "model:house_tower": {
+  "asset_id": "f8ff0754334f4732b0154d10e0e55509",
+  "model_path": "assets/model/f8ff0754334f4732b0154d10e0e55509/Meshes/f8ff0754334f4732b0154d10e0e55509.mdl",
+  "quality": "fast",
+  "remote_url": "https://tapcode-sce.spark.xd.com/art-resource-search/generated-assets/sessions/02c15268-8eb7-46b3-806b-481d3edb36b8/f8ff0754334f4732b0154d10e0e55509/output/mdl/base.zip",
+  "status": "done",
+  "step": "convert_to_mdl",
+  "task_id": "489f9912-9774-4936-a9af-be32b29b8aaf",
+  "updated_at": "2026-11-24T20:45:02"
+ },
+ "model:ice_spike": {
+  "asset_id": "2283de8dbdf642259993567328b55ded",
+  "model_path": "assets/model/2283de8dbdf642259993567328b55ded/Meshes/2283de8dbdf642259993567328b55ded.mdl",
+  "quality": "fast",
+  "remote_url": "https://tapcode-sce.spark.xd.com/art-resource-search/generated-assets/sessions/eec1182a-04c5-443a-8d6c-3e1949952f88/2283de8dbdf642259993567328b55ded/output/mdl/base.zip",
+  "status": "done",
+  "step": "convert_to_mdl",
+  "task_id": "c6382f40-f9c1-4183-8ffb-4c003e4dcbef",
+  "updated_at": "2026-11-24T20:50:24"
+ },
+ "model:korlash": {
+  "asset_id": "75e2ff26100045a5bf2ecf615156bf1f",
+  "model_path": "assets/model/75e2ff26100045a5bf2ecf615156bf1f/Meshes/75e2ff26100045a5bf2ecf615156bf1f.mdl",
+  "quality": "high_quality",
+  "remote_url": "https://tapcode-sce.spark.xd.com/art-resource-search/generated-assets/sessions/e5ca0a4f-721c-496a-a9c2-8cc2b1ba56ee/75e2ff26100045a5bf2ecf615156bf1f/output/mdl/base.zip",
+  "status": "done",
+  "step": "convert_to_mdl",
+  "task_id": "ef205fe6-db1c-4a61-81a9-dcec2f897b6d",
+  "updated_at": "2026-11-24T20:40:28"
+ },
+ "model:lava_pool": {
+  "asset_id": "8151a69888d046ef9c901f3c468a515c",
+  "model_path": "assets/model/8151a69888d046ef9c901f3c468a515c/Meshes/8151a69888d046ef9c901f3c468a515c.mdl",
+  "quality": "fast",
+  "remote_url": "https://tapcode-sce.spark.xd.com/art-resource-search/generated-assets/sessions/1a8783dc-48d4-48a3-98b0-12934b154a17/8151a69888d046ef9c901f3c468a515c/output/mdl/base.zip",
+  "status": "done",
+  "step": "convert_to_mdl",
+  "task_id": "7f143eba-17b2-40fe-9699-d3fccb5f4cf1",
+  "updated_at": "2026-11-24T20:51:34"
+ },
+ "model:lurker": {
+  "asset_id": "a9027f397c234ebba37a99cd9802d325",
+  "model_path": "assets/model/a9027f397c234ebba37a99cd9802d325/Meshes/a9027f397c234ebba37a99cd9802d325.mdl",
+  "quality": "balanced",
+  "remote_url": "https://tapcode-sce.spark.xd.com/art-resource-search/generated-assets/sessions/db91f8db-598c-47e4-bc90-5b6e57a22687/a9027f397c234ebba37a99cd9802d325/output/mdl/base.zip",
+  "status": "done",
+  "step": "convert_to_mdl",
+  "task_id": "c7f59ed2-a946-46ee-943e-6608ec19f448",
+  "updated_at": "2026-11-24T20:33:37"
+ },
+ "model:magei": {
+  "asset_id": "1aac371fb3b54b75ac48af4cf0846836",
+  "model_path": "assets/model/1aac371fb3b54b75ac48af4cf0846836/Meshes/1aac371fb3b54b75ac48af4cf0846836.mdl",
+  "quality": "balanced",
+  "remote_url": "https://tapcode-sce.spark.xd.com/art-resource-search/generated-assets/sessions/92765b46-8cae-42a7-a7e7-9b801d89d48c/1aac371fb3b54b75ac48af4cf0846836/output/mdl/base.zip",
+  "status": "done",
+  "step": "convert_to_mdl",
+  "task_id": "f25affaa-e874-4882-9986-51d944a18de2",
+  "updated_at": "2026-11-24T20:24:53"
+ },
+ "model:moloc": {
+  "asset_id": "54d27655964a4aaebcaf3fd93931b93e",
+  "model_path": "assets/model/54d27655964a4aaebcaf3fd93931b93e/Meshes/54d27655964a4aaebcaf3fd93931b93e.mdl",
+  "quality": "high_quality",
+  "remote_url": "https://tapcode-sce.spark.xd.com/art-resource-search/generated-assets/sessions/8540a85e-ca38-4c0f-8915-00949f7cc274/54d27655964a4aaebcaf3fd93931b93e/output/mdl/base.zip",
+  "status": "done",
+  "step": "convert_to_mdl",
+  "task_id": "57ff9a36-6aff-4374-8f4c-7f61c8fe6714",
+  "updated_at": "2026-11-24T20:39:19"
+ },
+ "model:mortar": {
+  "asset_id": "4ee834b2eae440baa947fcb6004364e3",
+  "model_path": "assets/model/4ee834b2eae440baa947fcb6004364e3/Meshes/4ee834b2eae440baa947fcb6004364e3.mdl",
+  "quality": "balanced",
+  "remote_url": "https://tapcode-sce.spark.xd.com/art-resource-search/generated-assets/sessions/949cd566-bd00-4fab-bed0-fe3b9db2342f/4ee834b2eae440baa947fcb6004364e3/output/mdl/base.zip",
+  "status": "done",
+  "step": "convert_to_mdl",
+  "task_id": "4cd21190-a31c-4042-a28a-ba10cf8172ca",
+  "updated_at": "2026-11-24T20:22:35"
+ },
+ "model:mushroom": {
+  "asset_id": "b306fdba623b44269cba5b0ae5003697",
+  "model_path": "assets/model/b306fdba623b44269cba5b0ae5003697/Meshes/b306fdba623b44269cba5b0ae5003697.mdl",
+  "quality": "fast",
+  "remote_url": "https://tapcode-sce.spark.xd.com/art-resource-search/generated-assets/sessions/a15eb2da-fee3-4060-85e7-63480c839752/b306fdba623b44269cba5b0ae5003697/output/mdl/base.zip",
+  "status": "done",
+  "step": "convert_to_mdl",
+  "task_id": "43020cd5-097f-4a7b-9a8a-ee415d7a2738",
+  "updated_at": "2026-11-24T20:48:01"
+ },
+ "model:necromancer": {
+  "asset_id": "353a5bfe50614dd4835bb08dde1077ec",
+  "model_path": "assets/model/353a5bfe50614dd4835bb08dde1077ec/Meshes/353a5bfe50614dd4835bb08dde1077ec.mdl",
+  "quality": "balanced",
+  "remote_url": "https://tapcode-sce.spark.xd.com/art-resource-search/generated-assets/sessions/1f980651-c85b-4874-b10b-a23e064ca0c4/353a5bfe50614dd4835bb08dde1077ec/output/mdl/base.zip",
+  "status": "done",
+  "step": "convert_to_mdl",
+  "task_id": "4d61f26c-f6f4-454d-bad0-9407ce538f08",
+  "updated_at": "2026-11-24T20:35:38"
+ },
+ "model:oathsworn_revenant": {
+  "asset_id": "c0c7b6ee499b41f6aefb8ff315b47a30",
+  "model_path": "assets/model/c0c7b6ee499b41f6aefb8ff315b47a30/Meshes/c0c7b6ee499b41f6aefb8ff315b47a30.mdl",
+  "quality": "high_quality",
+  "remote_url": "https://tapcode-sce.spark.xd.com/art-resource-search/generated-assets/sessions/6553c0a9-18b9-4978-a7f8-1ab6942203d4/c0c7b6ee499b41f6aefb8ff315b47a30/output/mdl/base.zip",
+  "status": "done",
+  "step": "convert_to_mdl",
+  "task_id": "73648bdd-407f-4650-827b-cbe9925aa0d4",
+  "updated_at": "2026-11-24T20:26:21"
+ },
+ "model:obelisk": {
+  "asset_id": "67ec4638bb8a458280983125ecbbcb95",
+  "model_path": "assets/model/67ec4638bb8a458280983125ecbbcb95/Meshes/67ec4638bb8a458280983125ecbbcb95.mdl",
+  "quality": "fast",
+  "remote_url": "https://tapcode-sce.spark.xd.com/art-resource-search/generated-assets/sessions/3660c1c7-3996-4182-b5fa-83dd1a346d27/67ec4638bb8a458280983125ecbbcb95/output/mdl/base.zip",
+  "status": "done",
+  "step": "convert_to_mdl",
+  "task_id": "986cc8f1-f2f6-461d-9aa3-010b53e16240",
+  "updated_at": "2026-11-24T20:47:57"
+ },
+ "model:paladin": {
+  "asset_id": "23111277bc2c4e7ca72f3f81b2d63fb4",
+  "model_path": "assets/model/23111277bc2c4e7ca72f3f81b2d63fb4/Meshes/23111277bc2c4e7ca72f3f81b2d63fb4.mdl",
+  "quality": "high_quality",
+  "remote_url": "https://tapcode-sce.spark.xd.com/art-resource-search/generated-assets/sessions/18e7e8ae-bdec-4a1e-8d22-5da0c4afe131/23111277bc2c4e7ca72f3f81b2d63fb4/output/mdl/base.zip",
+  "status": "done",
+  "step": "convert_to_mdl",
+  "task_id": "774035c9-6d90-4ea0-b70e-d29e1e680746",
+  "updated_at": "2026-11-24T20:27:11"
+ },
+ "model:palm_bush": {
+  "asset_id": "ace8e48c61124276a1224e2a03294f7f",
+  "model_path": "assets/model/ace8e48c61124276a1224e2a03294f7f/Meshes/ace8e48c61124276a1224e2a03294f7f.mdl",
+  "quality": "fast",
+  "remote_url": "https://tapcode-sce.spark.xd.com/art-resource-search/generated-assets/sessions/7e43df59-aec1-4881-94fe-6ceab571f0a0/ace8e48c61124276a1224e2a03294f7f/output/mdl/base.zip",
+  "status": "done",
+  "step": "convert_to_mdl",
+  "task_id": "4940a2c6-ee7f-4dba-b18d-d114c5ec5fa6",
+  "updated_at": "2026-11-24T20:42:45"
+ },
+ "model:pillar": {
+  "asset_id": "59d9dca5f18b423aab7a07704825e447",
+  "model_path": "assets/model/59d9dca5f18b423aab7a07704825e447/Meshes/59d9dca5f18b423aab7a07704825e447.mdl",
+  "quality": "fast",
+  "remote_url": "https://tapcode-sce.spark.xd.com/art-resource-search/generated-assets/sessions/821cc26a-9a08-42ae-8fe5-cfda08845d6d/59d9dca5f18b423aab7a07704825e447/output/mdl/base.zip",
+  "status": "done",
+  "step": "convert_to_mdl",
+  "task_id": "76d157a1-0712-4469-aae4-46af6364cdd8",
+  "updated_at": "2026-11-24T20:45:24"
+ },
+ "model:pillar_broken": {
+  "asset_id": "2d367ea35b5a478094648971a229bbfb",
+  "model_path": "assets/model/2d367ea35b5a478094648971a229bbfb/Meshes/2d367ea35b5a478094648971a229bbfb.mdl",
+  "quality": "fast",
+  "remote_url": "https://tapcode-sce.spark.xd.com/art-resource-search/generated-assets/sessions/3bc3e13d-7811-4c0a-a2b4-76430238ecbd/2d367ea35b5a478094648971a229bbfb/output/mdl/base.zip",
+  "status": "done",
+  "step": "convert_to_mdl",
+  "task_id": "89668384-ed1e-4cbc-b45a-9b8d3e253a0b",
+  "updated_at": "2026-11-24T20:45:58"
+ },
+ "model:protodrake": {
+  "asset_id": "9043c583517e4a45aee364c2eb4a8a1a",
+  "model_path": "assets/model/9043c583517e4a45aee364c2eb4a8a1a/Meshes/9043c583517e4a45aee364c2eb4a8a1a.mdl",
+  "quality": "high_quality",
+  "remote_url": "https://tapcode-sce.spark.xd.com/art-resource-search/generated-assets/sessions/8e6f36b4-425e-424c-ad90-d740698082a4/9043c583517e4a45aee364c2eb4a8a1a/output/mdl/base.zip",
+  "status": "done",
+  "step": "convert_to_mdl",
+  "task_id": "b8734a63-a45d-449f-816a-dab63c505f33",
+  "updated_at": "2026-11-24T20:38:16"
+ },
+ "model:reeds": {
+  "asset_id": "a49d7263a28542d3bd589a2e553b93e9",
+  "model_path": "assets/model/a49d7263a28542d3bd589a2e553b93e9/Meshes/a49d7263a28542d3bd589a2e553b93e9.mdl",
+  "quality": "fast",
+  "remote_url": "https://tapcode-sce.spark.xd.com/art-resource-search/generated-assets/sessions/f06c1bdb-65fe-4020-897e-fb0a29776c69/a49d7263a28542d3bd589a2e553b93e9/output/mdl/base.zip",
+  "status": "done",
+  "step": "convert_to_mdl",
+  "task_id": "d794beb6-1eca-4265-bc1f-88ff2f029ae0",
+  "updated_at": "2026-11-24T20:51:32"
+ },
+ "model:risen_corpse": {
+  "asset_id": "eab01210343941d5ab99152c279bcff7",
+  "model_path": "assets/model/eab01210343941d5ab99152c279bcff7/Meshes/eab01210343941d5ab99152c279bcff7.mdl",
+  "quality": "balanced",
+  "remote_url": "https://tapcode-sce.spark.xd.com/art-resource-search/generated-assets/sessions/fb18d4b7-9dbc-46c2-8f85-203520ba2a1f/eab01210343941d5ab99152c279bcff7/output/mdl/base.zip",
+  "status": "done",
+  "step": "convert_to_mdl",
+  "task_id": "583ef83a-aa38-4a4d-bca5-5863fb9263a8",
+  "updated_at": "2026-11-24T20:34:21"
+ },
+ "model:rock_a": {
+  "asset_id": "e6d89c472c5b424f94bd41ad6356b13c",
+  "model_path": "assets/model/e6d89c472c5b424f94bd41ad6356b13c/Meshes/e6d89c472c5b424f94bd41ad6356b13c.mdl",
+  "quality": "fast",
+  "remote_url": "https://tapcode-sce.spark.xd.com/art-resource-search/generated-assets/sessions/a6a5cbff-58e8-4801-bc8e-2c603698bd5e/e6d89c472c5b424f94bd41ad6356b13c/output/mdl/base.zip",
+  "status": "done",
+  "step": "convert_to_mdl",
+  "task_id": "4dd5cd17-2c05-42b7-b118-340114aefde3",
+  "updated_at": "2026-11-24T20:43:09"
+ },
+ "model:rock_b": {
+  "asset_id": "b2f9a23b0c2644fab446e86805c3d58d",
+  "model_path": "assets/model/b2f9a23b0c2644fab446e86805c3d58d/Meshes/b2f9a23b0c2644fab446e86805c3d58d.mdl",
+  "quality": "fast",
+  "remote_url": "https://tapcode-sce.spark.xd.com/art-resource-search/generated-assets/sessions/f7095f5b-fb38-47b1-b63c-fa0eec237423/b2f9a23b0c2644fab446e86805c3d58d/output/mdl/base.zip",
+  "status": "done",
+  "step": "convert_to_mdl",
+  "task_id": "f3b0536c-9b7e-429d-8a20-220e0483ed65",
+  "updated_at": "2026-11-24T20:43:15"
+ },
+ "model:rock_lava": {
+  "asset_id": "be4f84d1865b40c096310138ad09f81e",
+  "model_path": "assets/model/be4f84d1865b40c096310138ad09f81e/Meshes/be4f84d1865b40c096310138ad09f81e.mdl",
+  "quality": "fast",
+  "remote_url": "https://tapcode-sce.spark.xd.com/art-resource-search/generated-assets/sessions/5af8b0f8-97ad-4b6b-a802-fbbb84266ed9/be4f84d1865b40c096310138ad09f81e/output/mdl/base.zip",
+  "status": "done",
+  "step": "convert_to_mdl",
+  "task_id": "1544bad1-b9f6-450d-8eb8-af5475ee2202",
+  "updated_at": "2026-11-24T20:43:56"
+ },
+ "model:rock_sand": {
+  "asset_id": "3f60d601f821448ca7e6414871d42dbe",
+  "model_path": "assets/model/3f60d601f821448ca7e6414871d42dbe/Meshes/3f60d601f821448ca7e6414871d42dbe.mdl",
+  "quality": "fast",
+  "remote_url": "https://tapcode-sce.spark.xd.com/art-resource-search/generated-assets/sessions/88536a7c-7189-4ddc-bf46-982c0b934104/3f60d601f821448ca7e6414871d42dbe/output/mdl/base.zip",
+  "status": "done",
+  "step": "convert_to_mdl",
+  "task_id": "e2bfcaff-225c-4ef0-8470-8951f11959a5",
+  "updated_at": "2026-11-24T20:43:46"
+ },
+ "model:rock_snow": {
+  "asset_id": "6944d3a8a267466eba485ca4f2a12386",
+  "model_path": "assets/model/6944d3a8a267466eba485ca4f2a12386/Meshes/6944d3a8a267466eba485ca4f2a12386.mdl",
+  "quality": "fast",
+  "remote_url": "https://tapcode-sce.spark.xd.com/art-resource-search/generated-assets/sessions/0d0ed29a-a1aa-4cde-87d4-0e8e6e2a7eda/6944d3a8a267466eba485ca4f2a12386/output/mdl/base.zip",
+  "status": "done",
+  "step": "convert_to_mdl",
+  "task_id": "cafc410d-379d-4e71-af9a-9e2e19d243ac",
+  "updated_at": "2026-11-24T20:44:28"
+ },
+ "model:rocket_battery": {
+  "asset_id": "73c2afe0285e4343b9b16092d11b1c59",
+  "model_path": "assets/model/73c2afe0285e4343b9b16092d11b1c59/Meshes/73c2afe0285e4343b9b16092d11b1c59.mdl",
+  "quality": "balanced",
+  "remote_url": "https://tapcode-sce.spark.xd.com/art-resource-search/generated-assets/sessions/6146369f-58c2-4618-bc73-a3b33509e50a/73c2afe0285e4343b9b16092d11b1c59/output/mdl/base.zip",
+  "status": "done",
+  "step": "convert_to_mdl",
+  "task_id": "3ea80540-6af0-40d9-af82-0deaf67a2286",
+  "updated_at": "2026-11-24T20:23:43"
+ },
+ "model:siphoner": {
+  "asset_id": "2bf75f4cf40e4326b4e49b9e350da1b3",
+  "model_path": "assets/model/2bf75f4cf40e4326b4e49b9e350da1b3/Meshes/2bf75f4cf40e4326b4e49b9e350da1b3.mdl",
+  "quality": "balanced",
+  "remote_url": "https://tapcode-sce.spark.xd.com/art-resource-search/generated-assets/sessions/1e1af676-4225-45ed-ae06-9f9667ca2055/2bf75f4cf40e4326b4e49b9e350da1b3/output/mdl/base.zip",
+  "status": "done",
+  "step": "convert_to_mdl",
+  "task_id": "ea6f6621-18b9-4534-9849-22ffb31cb99f",
+  "updated_at": "2026-11-24T20:27:36"
+ },
+ "model:spawn_of_helloc": {
+  "asset_id": "6b456f6089c544b8bf8b6e8b8622566c",
+  "model_path": "assets/model/6b456f6089c544b8bf8b6e8b8622566c/Meshes/6b456f6089c544b8bf8b6e8b8622566c.mdl",
+  "quality": "high_quality",
+  "remote_url": "https://tapcode-sce.spark.xd.com/art-resource-search/generated-assets/sessions/22cb250b-368f-44c2-a28c-17fe9823a351/6b456f6089c544b8bf8b6e8b8622566c/output/mdl/base.zip",
+  "status": "done",
+  "step": "convert_to_mdl",
+  "task_id": "e3e8ca6b-088b-4d42-aaf4-9ca5e08d2db9",
+  "updated_at": "2026-11-24T20:40:53"
+ },
+ "model:spawn_portal": {
+  "asset_id": "9c680f20dd7e4706ad77c72422275ca2",
+  "model_path": "assets/model/9c680f20dd7e4706ad77c72422275ca2/Meshes/9c680f20dd7e4706ad77c72422275ca2.mdl",
+  "quality": "fast",
+  "remote_url": "https://tapcode-sce.spark.xd.com/art-resource-search/generated-assets/sessions/f2c0ac9c-91ca-4d25-93bb-db6c99a125a9/9c680f20dd7e4706ad77c72422275ca2/output/mdl/base.zip",
+  "status": "done",
+  "step": "convert_to_mdl",
+  "task_id": "3afc347e-0631-41b2-8c10-9df9d7345032",
+  "updated_at": "2026-11-24T20:40:17"
+ },
+ "model:spectral_wight": {
+  "asset_id": "3d6f4ccd94134ca1bc8f3401ceb95d70",
+  "model_path": "assets/model/3d6f4ccd94134ca1bc8f3401ceb95d70/Meshes/3d6f4ccd94134ca1bc8f3401ceb95d70.mdl",
+  "quality": "balanced",
+  "remote_url": "https://tapcode-sce.spark.xd.com/art-resource-search/generated-assets/sessions/9a19fee4-2ee4-4583-bbb6-d9f04b669c67/3d6f4ccd94134ca1bc8f3401ceb95d70/output/mdl/base.zip",
+  "status": "done",
+  "step": "convert_to_mdl",
+  "task_id": "460e75b2-596b-49e3-8a32-44c4dee32b4f",
+  "updated_at": "2026-11-24T20:33:56"
+ },
+ "model:stardaughter": {
+  "asset_id": "292720dcd7d9450fbafb44eebc716582",
+  "model_path": "assets/model/292720dcd7d9450fbafb44eebc716582/Meshes/292720dcd7d9450fbafb44eebc716582.mdl",
+  "quality": "balanced",
+  "remote_url": "https://tapcode-sce.spark.xd.com/art-resource-search/generated-assets/sessions/ab41651d-3adf-4998-b951-0ac0a83caf03/292720dcd7d9450fbafb44eebc716582/output/mdl/base.zip",
+  "status": "done",
+  "step": "convert_to_mdl",
+  "task_id": "2ad4f8e9-b3ae-4b63-86e0-f5a89e4d8eba",
+  "updated_at": "2026-11-24T20:24:56"
+ },
+ "model:stone_arch": {
+  "asset_id": "e8692cf94172485780646ecb4e77e009",
+  "model_path": "assets/model/e8692cf94172485780646ecb4e77e009/Meshes/e8692cf94172485780646ecb4e77e009.mdl",
+  "quality": "fast",
+  "remote_url": "https://tapcode-sce.spark.xd.com/art-resource-search/generated-assets/sessions/05e0692c-7ce6-4bc4-b2aa-25e428346694/e8692cf94172485780646ecb4e77e009/output/mdl/base.zip",
+  "status": "done",
+  "step": "convert_to_mdl",
+  "task_id": "b04b9e92-fd68-4915-93e6-36591f783bfc",
+  "updated_at": "2026-11-24T20:46:21"
+ },
+ "model:summoner": {
+  "asset_id": "2398dadbd9d94ed69a3070da6d17d1d6",
+  "model_path": "assets/model/2398dadbd9d94ed69a3070da6d17d1d6/Meshes/2398dadbd9d94ed69a3070da6d17d1d6.mdl",
+  "quality": "high_quality",
+  "remote_url": "https://tapcode-sce.spark.xd.com/art-resource-search/generated-assets/sessions/c77c3bac-b94f-449a-98c6-3cb20a2029fa/2398dadbd9d94ed69a3070da6d17d1d6/output/mdl/base.zip",
+  "status": "done",
+  "step": "convert_to_mdl",
+  "task_id": "8c73e029-8440-498a-8db5-178771bb6893",
+  "updated_at": "2026-11-24T20:37:49"
+ },
+ "model:tax_collector": {
+  "asset_id": "5c78ac32fbbf4e3680cfd3fd7e7f460b",
+  "model_path": "assets/model/5c78ac32fbbf4e3680cfd3fd7e7f460b/Meshes/5c78ac32fbbf4e3680cfd3fd7e7f460b.mdl",
+  "quality": "balanced",
+  "remote_url": "https://tapcode-sce.spark.xd.com/art-resource-search/generated-assets/sessions/2220f0a2-dd76-40dc-a2e8-4f8b817aa591/5c78ac32fbbf4e3680cfd3fd7e7f460b/output/mdl/base.zip",
+  "status": "done",
+  "step": "convert_to_mdl",
+  "task_id": "b25bf016-a719-4916-ad1e-76b050a841d3",
+  "updated_at": "2026-11-24T20:28:38"
+ },
+ "model:tree_dead": {
+  "asset_id": "9fd4309352164141af4345fdbe6c1176",
+  "model_path": "assets/model/9fd4309352164141af4345fdbe6c1176/Meshes/9fd4309352164141af4345fdbe6c1176.mdl",
+  "quality": "fast",
+  "remote_url": "https://tapcode-sce.spark.xd.com/art-resource-search/generated-assets/sessions/01cffdd5-2030-4a3d-b586-0c47952c769b/9fd4309352164141af4345fdbe6c1176/output/mdl/base.zip",
+  "status": "done",
+  "step": "convert_to_mdl",
+  "task_id": "2b2db42f-bc02-45e8-99dd-9def808ca356",
+  "updated_at": "2026-11-24T20:42:16"
+ },
+ "model:tree_oak": {
+  "asset_id": "a588f618eb634b6295533b50abbaf747",
+  "model_path": "assets/model/a588f618eb634b6295533b50abbaf747/Meshes/a588f618eb634b6295533b50abbaf747.mdl",
+  "quality": "fast",
+  "remote_url": "https://tapcode-sce.spark.xd.com/art-resource-search/generated-assets/sessions/80d7c017-18b9-47cd-9736-02e01a357777/a588f618eb634b6295533b50abbaf747/output/mdl/base.zip",
+  "status": "done",
+  "step": "convert_to_mdl",
+  "task_id": "671105db-3d1c-451f-b0ab-5c1b0560708a",
+  "updated_at": "2026-11-24T20:41:29"
+ },
+ "model:tree_palm": {
+  "asset_id": "67e4bb3ae6fa4f62ad8afcc7998b38a4",
+  "model_path": "assets/model/67e4bb3ae6fa4f62ad8afcc7998b38a4/Meshes/67e4bb3ae6fa4f62ad8afcc7998b38a4.mdl",
+  "quality": "fast",
+  "remote_url": "https://tapcode-sce.spark.xd.com/art-resource-search/generated-assets/sessions/118fcd93-0f8e-45bf-8e81-f0658f24b0e8/67e4bb3ae6fa4f62ad8afcc7998b38a4/output/mdl/base.zip",
+  "status": "done",
+  "step": "convert_to_mdl",
+  "task_id": "6e4a5b72-f4d0-4e47-8d80-fc0fa6468fd9",
+  "updated_at": "2026-11-24T20:41:16"
+ },
+ "model:tree_pine": {
+  "asset_id": "263e3167a406455482a3ef4b70d66300",
+  "model_path": "assets/model/263e3167a406455482a3ef4b70d66300/Meshes/263e3167a406455482a3ef4b70d66300.mdl",
+  "quality": "fast",
+  "remote_url": "https://tapcode-sce.spark.xd.com/art-resource-search/generated-assets/sessions/94d6893f-4ab3-4bc5-b9f8-04d0fc3d724c/263e3167a406455482a3ef4b70d66300/output/mdl/base.zip",
+  "status": "done",
+  "step": "convert_to_mdl",
+  "task_id": "916a15ab-8940-4404-b982-0e6cd5b63e8e",
+  "updated_at": "2026-11-24T20:41:16"
+ },
+ "model:tree_pine_snow": {
+  "asset_id": "7dd67002d2c4465e9230e7bee21eb5e1",
+  "model_path": "assets/model/7dd67002d2c4465e9230e7bee21eb5e1/Meshes/7dd67002d2c4465e9230e7bee21eb5e1.mdl",
+  "quality": "fast",
+  "remote_url": "https://tapcode-sce.spark.xd.com/art-resource-search/generated-assets/sessions/ae6ac94c-f97f-44c0-ae43-fe0f871d627b/7dd67002d2c4465e9230e7bee21eb5e1/output/mdl/base.zip",
+  "status": "done",
+  "step": "convert_to_mdl",
+  "task_id": "3201f5bd-6d98-48aa-8012-ab8337177ef3",
+  "updated_at": "2026-11-24T20:42:29"
+ },
+ "model:tree_willow": {
+  "asset_id": "0fc07ea5f2d44ec5b018cab6d05e0e63",
+  "model_path": "assets/model/0fc07ea5f2d44ec5b018cab6d05e0e63/Meshes/0fc07ea5f2d44ec5b018cab6d05e0e63.mdl",
+  "quality": "fast",
+  "remote_url": "https://tapcode-sce.spark.xd.com/art-resource-search/generated-assets/sessions/1f9b40c0-fa49-4d87-9736-1f6a5f625106/0fc07ea5f2d44ec5b018cab6d05e0e63/output/mdl/base.zip",
+  "status": "done",
+  "step": "convert_to_mdl",
+  "task_id": "db10fd7e-3185-4aac-a576-ab8c3392e3d7",
+  "updated_at": "2026-11-24T20:42:16"
+ },
+ "model:unit_berserker": {
+  "asset_id": "aa91519f51f64243bba06e7a468d4e60",
+  "model_path": "assets/model/aa91519f51f64243bba06e7a468d4e60/Meshes/aa91519f51f64243bba06e7a468d4e60.mdl",
+  "quality": "balanced",
+  "remote_url": "https://tapcode-sce.spark.xd.com/art-resource-search/generated-assets/sessions/1805a13b-bb18-4066-978e-8267e263c0ee/aa91519f51f64243bba06e7a468d4e60/output/mdl/base.zip",
+  "status": "done",
+  "step": "convert_to_mdl",
+  "task_id": "495fd23d-82eb-4844-a6ff-63a89c74e626",
+  "updated_at": "2026-11-24T20:32:00"
+ },
+ "model:unit_defender": {
+  "asset_id": "de45cb78f80341cb8e213a81979c3cdc",
+  "model_path": "assets/model/de45cb78f80341cb8e213a81979c3cdc/Meshes/de45cb78f80341cb8e213a81979c3cdc.mdl",
+  "quality": "balanced",
+  "remote_url": "https://tapcode-sce.spark.xd.com/art-resource-search/generated-assets/sessions/9dc1955b-daf1-4049-b40e-e7e99736c594/de45cb78f80341cb8e213a81979c3cdc/output/mdl/base.zip",
+  "status": "done",
+  "step": "convert_to_mdl",
+  "task_id": "966a7c09-2e32-4523-a279-f43d74d31568",
+  "updated_at": "2026-11-24T20:31:33"
+ },
+ "model:unit_dreamknight": {
+  "asset_id": "e0aba14e826d4a9ab8a3e768bbe1b865",
+  "model_path": "assets/model/e0aba14e826d4a9ab8a3e768bbe1b865/Meshes/e0aba14e826d4a9ab8a3e768bbe1b865.mdl",
+  "quality": "balanced",
+  "remote_url": "https://tapcode-sce.spark.xd.com/art-resource-search/generated-assets/sessions/e0d02f67-4142-4fb7-b2ee-864a05940a2f/e0aba14e826d4a9ab8a3e768bbe1b865/output/mdl/base.zip",
+  "status": "done",
+  "step": "convert_to_mdl",
+  "task_id": "8afe56c1-907b-4124-8d97-48bc3327525c",
+  "updated_at": "2026-11-24T20:32:02"
+ },
+ "model:unit_footman": {
+  "asset_id": "591b6c7d381f4920a4ec878e94f5fd06",
+  "model_path": "assets/model/591b6c7d381f4920a4ec878e94f5fd06/Meshes/591b6c7d381f4920a4ec878e94f5fd06.mdl",
+  "quality": "balanced",
+  "remote_url": "https://tapcode-sce.spark.xd.com/art-resource-search/generated-assets/sessions/bf9a27a8-8ffe-46a9-a9ee-7fc6f131710a/591b6c7d381f4920a4ec878e94f5fd06/output/mdl/base.zip",
+  "status": "done",
+  "step": "convert_to_mdl",
+  "task_id": "2b03987b-ba15-4750-a9b9-273cb9bd4afc",
+  "updated_at": "2026-11-24T20:30:53"
+ },
+ "model:unit_golem": {
+  "asset_id": "06fc8294240e4f83aaed2f84fa239e62",
+  "model_path": "assets/model/06fc8294240e4f83aaed2f84fa239e62/Meshes/06fc8294240e4f83aaed2f84fa239e62.mdl",
+  "quality": "high_quality",
+  "remote_url": "https://tapcode-sce.spark.xd.com/art-resource-search/generated-assets/sessions/0da9c28b-a892-4929-a839-8775e89e7223/06fc8294240e4f83aaed2f84fa239e62/output/mdl/base.zip",
+  "status": "done",
+  "step": "convert_to_mdl",
+  "task_id": "41471451-1425-4031-8164-4b65e7cddcd5",
+  "updated_at": "2026-11-24T20:32:22"
+ },
+ "model:unit_king": {
+  "asset_id": "6e0b4491e4b7444c927dbbc90e2e5700",
+  "model_path": "assets/model/6e0b4491e4b7444c927dbbc90e2e5700/Meshes/6e0b4491e4b7444c927dbbc90e2e5700.mdl",
+  "quality": "high_quality",
+  "remote_url": "https://tapcode-sce.spark.xd.com/art-resource-search/generated-assets/sessions/008de953-0079-4684-b84e-e0cd7ac94b3f/6e0b4491e4b7444c927dbbc90e2e5700/output/mdl/base.zip",
+  "status": "done",
+  "step": "convert_to_mdl",
+  "task_id": "cf1d69fb-4ff2-44d5-b535-cdd5f92e2590",
+  "updated_at": "2026-11-24T20:33:20"
+ },
+ "model:unit_knight": {
+  "asset_id": "913f591c4f3648ee808b2a7584473068",
+  "model_path": "assets/model/913f591c4f3648ee808b2a7584473068/Meshes/913f591c4f3648ee808b2a7584473068.mdl",
+  "quality": "balanced",
+  "remote_url": "https://tapcode-sce.spark.xd.com/art-resource-search/generated-assets/sessions/e5452147-0de0-4a71-a277-b8f4b989a98c/913f591c4f3648ee808b2a7584473068/output/mdl/base.zip",
+  "status": "done",
+  "step": "convert_to_mdl",
+  "task_id": "2fc6fb0d-1d76-413a-9bdb-154336d2c457",
+  "updated_at": "2026-11-24T20:31:07"
+ },
+ "model:wight": {
+  "asset_id": "81273b38f9274019929193af50d2a02d",
+  "model_path": "assets/model/81273b38f9274019929193af50d2a02d/Meshes/81273b38f9274019929193af50d2a02d.mdl",
+  "quality": "balanced",
+  "remote_url": "https://tapcode-sce.spark.xd.com/art-resource-search/generated-assets/sessions/ced8cc9e-f31d-4262-9d85-107671a61f1b/81273b38f9274019929193af50d2a02d/output/mdl/base.zip",
+  "status": "done",
+  "step": "convert_to_mdl",
+  "task_id": "fd8c0305-b8d7-4fb2-a467-712d243aa2a3",
+  "updated_at": "2026-11-24T20:34:28"
+ },
+ "model:wraith_lord": {
+  "asset_id": "da77189f3c0b495980743122710f6bae",
+  "model_path": "assets/model/da77189f3c0b495980743122710f6bae/Meshes/da77189f3c0b495980743122710f6bae.mdl",
+  "quality": "balanced",
+  "remote_url": "https://tapcode-sce.spark.xd.com/art-resource-search/generated-assets/sessions/755629a1-79c1-4d8b-9639-38caee8bbaec/da77189f3c0b495980743122710f6bae/output/mdl/base.zip",
+  "status": "done",
+  "step": "convert_to_mdl",
+  "task_id": "4882c5f8-c21a-4194-a08d-89cd2bfa78c7",
+  "updated_at": "2026-11-24T20:37:13"
+ },
+ "model:wraith_witch": {
+  "asset_id": "b7ecfe4c3d304e32a308a85b30cc4b39",
+  "model_path": "assets/model/b7ecfe4c3d304e32a308a85b30cc4b39/Meshes/b7ecfe4c3d304e32a308a85b30cc4b39.mdl",
+  "quality": "balanced",
+  "remote_url": "https://tapcode-sce.spark.xd.com/art-resource-search/generated-assets/sessions/637fcd4d-544b-4687-b57f-34aad6d3fd31/b7ecfe4c3d304e32a308a85b30cc4b39/output/mdl/base.zip",
+  "status": "done",
+  "step": "convert_to_mdl",
+  "task_id": "a932630c-2ae4-488c-93de-d88a070b7b86",
+  "updated_at": "2026-11-24T20:36:16"
+ }
+}

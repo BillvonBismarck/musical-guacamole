@@ -1,0 +1,1541 @@
+{
+  "version": 1,
+  "style_block": "stylized hand-painted high-fantasy game art, chunky heroic proportions, oversized hands, shoulders and weapons, bold readable silhouette from a high top-down camera, low-poly faceted forms with soft painted gradients, saturated but warm palette, strong color blocking, clean shapes, no fine noise detail, single centered object, neutral light grey background, even studio lighting",
+  "negative_block": "photorealistic, gritty realism, thin spindly limbs, tiny details, text, logo, watermark, signature, multiple objects, ground plane, cast shadow on background, cropped, cut-off parts, blurry, existing franchise characters, recognizable trademarked designs ",
+  "negative_full": "photorealistic, gritty realism, thin spindly limbs, tiny details, text, logo, watermark, signature, multiple objects, ground plane, cast shadow on background, cropped, cut-off parts, blurry, existing franchise characters, recognizable trademarked designs or emblems",
+  "add3d_block": "game-ready low-poly 3D model, A-pose for characters, feet flat on ground, whole object visible, simple solid color regions, under 6k triangles",
+  "assets": [
+    {
+      "id": "hero",
+      "group": "hero",
+      "prompt": "The Warden, the player's champion: a young knight-commander in plated armor with a short blue tabard, a large round pauldron on each shoulder, an open-faced helm with a small crest, a longsword on the hip and a kite shield on the back. Confident stance. Keep the armor mostly light grey and white with small gold trim, neutral base colors.",
+      "subject_type": "biped",
+      "quality_tier": "high_quality",
+      "face_limit": 6000,
+      "size": "5.6 x 4.5",
+      "parts": [
+        "Body",
+        "Head",
+        "ArmL",
+        "ArmR",
+        "LegL",
+        "LegR"
+      ],
+      "concept": true,
+      "face_sketch": ""
+    },
+    {
+      "id": "archer",
+      "group": "tower",
+      "prompt": "Forest ranger archer in a deep green hood and leather armor with bronze trim, longbow in the left hand, quiver of fletched arrows on the back, short green cape, alert stance.",
+      "subject_type": "biped",
+      "quality_tier": "balanced",
+      "face_limit": 6000,
+      "size": "6.2 x 4.0",
+      "parts": [
+        "Body",
+        "Head",
+        "ArmL",
+        "ArmR",
+        "LegL",
+        "LegR"
+      ],
+      "concept": true,
+      "face_sketch": ""
+    },
+    {
+      "id": "crossbowman",
+      "group": "tower",
+      "prompt": "Stocky crossbowman in a steel cap and padded gambeson, holding a heavy dwarf-forged arbalest with a crank winch, bolt case on the belt, thick forearms.",
+      "subject_type": "biped",
+      "quality_tier": "balanced",
+      "face_limit": 6000,
+      "size": "5.7 x 4.6",
+      "parts": [
+        "Body",
+        "Head",
+        "ArmL",
+        "ArmR",
+        "LegL",
+        "LegR"
+      ],
+      "concept": true,
+      "face_sketch": ""
+    },
+    {
+      "id": "hoplite",
+      "group": "tower",
+      "prompt": "Bronze-clad spearman from a sun-baked southern city-state: crested bronze helm, round bronze shield with a sun motif, long spear, red cloak and greaves.",
+      "subject_type": "biped",
+      "quality_tier": "balanced",
+      "face_limit": 6000,
+      "size": "6.5 x 4.4",
+      "parts": [
+        "Body",
+        "Head",
+        "ArmL",
+        "ArmR",
+        "LegL",
+        "LegR"
+      ],
+      "concept": true,
+      "face_sketch": ""
+    },
+    {
+      "id": "mortar",
+      "group": "tower",
+      "prompt": "Squat siege mortar on a round wooden turntable base, fat black-iron barrel angled upward, brass bands, a small stack of round shells and a powder keg beside it.",
+      "subject_type": "other",
+      "quality_tier": "balanced",
+      "face_limit": 6000,
+      "size": "4.2 x 5.2",
+      "parts": [
+        "Turret",
+        "Barrel"
+      ],
+      "concept": true,
+      "face_sketch": ""
+    },
+    {
+      "id": "great_cannon",
+      "group": "tower",
+      "prompt": "Huge royal bronze cannon on a low reinforced wooden carriage with iron-banded wheels, long barrel with a lion-mouth muzzle (generic, not an emblem), rammer leaning on the side.",
+      "subject_type": "other",
+      "quality_tier": "balanced",
+      "face_limit": 6000,
+      "size": "3.0 x 7.2 long",
+      "parts": [
+        "Turret",
+        "Barrel"
+      ],
+      "concept": true,
+      "face_sketch": ""
+    },
+    {
+      "id": "rocket_battery",
+      "group": "tower",
+      "prompt": "Ramshackle tinker-guild rocket launcher: a rack of six striped rockets on a swiveling wooden frame, copper pipes, gauges, a small boiler, smoke-stained metal.",
+      "subject_type": "other",
+      "quality_tier": "balanced",
+      "face_limit": 6000,
+      "size": "4.3 x 4.2",
+      "parts": [
+        "Turret"
+      ],
+      "concept": true,
+      "face_sketch": ""
+    },
+    {
+      "id": "arcantech_commando",
+      "group": "tower",
+      "prompt": "Elite rifleman in dark blue leather and steel, holding a long rifle etched with glowing cyan runes and a crystal cartridge magazine, goggles pushed up on the helmet.",
+      "subject_type": "biped",
+      "quality_tier": "balanced",
+      "face_limit": 6000,
+      "size": "5.6 x 4.6",
+      "parts": [
+        "Body",
+        "Head",
+        "ArmL",
+        "ArmR",
+        "LegL",
+        "LegR"
+      ],
+      "concept": true,
+      "face_sketch": ""
+    },
+    {
+      "id": "astrapomancer",
+      "group": "tower",
+      "prompt": "Old hermit storm mage with a very long white beard crackling with blue sparks, grey-blue robes, tall gnarled staff topped with a caged lightning orb, wild hair.",
+      "subject_type": "biped",
+      "quality_tier": "balanced",
+      "face_limit": 6000,
+      "size": "7.5 x 3.6",
+      "parts": [
+        "Body",
+        "Head",
+        "ArmL",
+        "ArmR",
+        "LegL",
+        "LegR"
+      ],
+      "concept": true,
+      "face_sketch": ""
+    },
+    {
+      "id": "magei",
+      "group": "tower",
+      "prompt": "Arch-wizard in rich violet and gold robes with a tall pointed collar, floating open spellbook at the side, ornate staff with a large amethyst, scholarly and imperious.",
+      "subject_type": "biped",
+      "quality_tier": "balanced",
+      "face_limit": 6000,
+      "size": "6.9 x 4.3",
+      "parts": [
+        "Body",
+        "Head",
+        "ArmL",
+        "ArmR",
+        "LegL",
+        "LegR"
+      ],
+      "concept": true,
+      "face_sketch": ""
+    },
+    {
+      "id": "alchemist",
+      "group": "tower",
+      "prompt": "Eccentric alchemist with a soot-smudged apron over brown robes, goggles, a bandolier of bubbling colored potion flasks, holding a smoking green flask overhead.",
+      "subject_type": "biped",
+      "quality_tier": "balanced",
+      "face_limit": 6000,
+      "size": "7.5 x 3.6",
+      "parts": [
+        "Body",
+        "Head",
+        "ArmL",
+        "ArmR",
+        "LegL",
+        "LegR"
+      ],
+      "concept": true,
+      "face_sketch": ""
+    },
+    {
+      "id": "aquamancer",
+      "group": "tower",
+      "prompt": "Sea priestess in flowing teal and pearl-white robes, a coral and shell crown, holding a trident-staff, a swirl of water rising around her lower body.",
+      "subject_type": "biped",
+      "quality_tier": "balanced",
+      "face_limit": 6000,
+      "size": "6.1 x 4.4",
+      "parts": [
+        "Body",
+        "Head",
+        "ArmL",
+        "ArmR",
+        "LegL",
+        "LegR"
+      ],
+      "concept": true,
+      "face_sketch": ""
+    },
+    {
+      "id": "stardaughter",
+      "group": "tower",
+      "prompt": "Graceful celestial archer in midnight-blue and silver armor sprinkled with tiny glowing stars, crescent-moon bow, long flowing hair, faint starlight glow.",
+      "subject_type": "biped",
+      "quality_tier": "balanced",
+      "face_limit": 6000,
+      "size": "6.7 x 4.3",
+      "parts": [
+        "Body",
+        "Head",
+        "ArmL",
+        "ArmR",
+        "LegL",
+        "LegR"
+      ],
+      "concept": true,
+      "face_sketch": ""
+    },
+    {
+      "id": "oathsworn_revenant",
+      "group": "tower",
+      "prompt": "Fallen knight in cracked black plate with a tattered dark-red tabard, pale ghostly blue light leaking from the visor and the armor cracks, huge two-handed greatsword.",
+      "subject_type": "biped",
+      "quality_tier": "high_quality",
+      "face_limit": 6000,
+      "size": "6.9 x 6.7",
+      "parts": [
+        "Body",
+        "Head",
+        "ArmL",
+        "ArmR",
+        "LegL",
+        "LegR"
+      ],
+      "concept": true,
+      "face_sketch": ""
+    },
+    {
+      "id": "cleric",
+      "group": "tower",
+      "prompt": "Gentle temple sister in white and pale gold robes with a hood, holding a lantern-topped staff that glows warm yellow, a small holy book on the belt.",
+      "subject_type": "biped",
+      "quality_tier": "balanced",
+      "face_limit": 6000,
+      "size": "6.2 x 3.6",
+      "parts": [
+        "Body",
+        "Head",
+        "ArmL",
+        "ArmR",
+        "LegL",
+        "LegR"
+      ],
+      "concept": true,
+      "face_sketch": ""
+    },
+    {
+      "id": "paladin",
+      "group": "tower",
+      "prompt": "Holy knight in polished silver and gold plate with a white tabard bearing a simple sunburst, large warhammer, glowing golden halo behind the helm.",
+      "subject_type": "biped",
+      "quality_tier": "high_quality",
+      "face_limit": 6000,
+      "size": "6.8 x 6.3",
+      "parts": [
+        "Body",
+        "Head",
+        "ArmL",
+        "ArmR",
+        "LegL",
+        "LegR"
+      ],
+      "concept": true,
+      "face_sketch": ""
+    },
+    {
+      "id": "grove_warden",
+      "group": "tower",
+      "prompt": "Ancient walking tree-spirit: bark body, mossy shoulders, leafy crown, glowing amber eyes, root-like feet, small flowers and mushrooms growing on it, kindly.",
+      "subject_type": "biped",
+      "quality_tier": "high_quality",
+      "face_limit": 6000,
+      "size": "7.3 x 6.3",
+      "parts": [
+        "Body",
+        "Head",
+        "ArmL",
+        "ArmR",
+        "LegL",
+        "LegR"
+      ],
+      "concept": true,
+      "face_sketch": ""
+    },
+    {
+      "id": "siphoner",
+      "group": "tower",
+      "prompt": "Gaunt blood-hermit in dark crimson hooded robes, pale hands, a curved ritual dagger, a floating red orb of drawn life essence above one palm.",
+      "subject_type": "biped",
+      "quality_tier": "balanced",
+      "face_limit": 6000,
+      "size": "6.0 x 3.7",
+      "parts": [
+        "Body",
+        "Head",
+        "ArmL",
+        "ArmR",
+        "LegL",
+        "LegR"
+      ],
+      "concept": true,
+      "face_sketch": ""
+    },
+    {
+      "id": "augur_solis",
+      "group": "tower",
+      "prompt": "Sacred sun monument: a carved white-stone pedestal with gold filigree, holding a giant floating golden eye made of light and sun rays. Divine and serene, not creepy.",
+      "subject_type": "other",
+      "quality_tier": "high_quality",
+      "face_limit": 6000,
+      "size": "9.3 x 5.2",
+      "parts": [
+        "Eye"
+      ],
+      "concept": true,
+      "face_sketch": ""
+    },
+    {
+      "id": "gold_mine",
+      "group": "tower",
+      "prompt": "Small dwarven mine entrance cut into a rocky mound, timber supports, a lantern, a mine-cart full of gold nuggets on short rails.",
+      "subject_type": "other",
+      "quality_tier": "balanced",
+      "face_limit": 6000,
+      "size": "4.0 x 6.7",
+      "parts": [
+        "Cart"
+      ],
+      "concept": true,
+      "face_sketch": ""
+    },
+    {
+      "id": "farm",
+      "group": "tower",
+      "prompt": "Tiny farmstead plot: a little thatched shed, wheat sheaves, a fenced vegetable patch, a scarecrow and sacks of grain.",
+      "subject_type": "other",
+      "quality_tier": "balanced",
+      "face_limit": 6000,
+      "size": "3.6 x 5.8",
+      "parts": [],
+      "concept": true,
+      "face_sketch": ""
+    },
+    {
+      "id": "tax_collector",
+      "group": "tower",
+      "prompt": "Pompous royal tax collector in a red velvet coat with fur trim, a ledger and quill, a heavy coin purse, a feathered hat.",
+      "subject_type": "biped",
+      "quality_tier": "balanced",
+      "face_limit": 6000,
+      "size": "6.3 x 4.4",
+      "parts": [
+        "Body",
+        "Head",
+        "ArmL",
+        "ArmR",
+        "LegL",
+        "LegR"
+      ],
+      "concept": true,
+      "face_sketch": ""
+    },
+    {
+      "id": "barracks_footman",
+      "group": "barracks_camp",
+      "prompt": "small military camp: a pitched canvas tent, a weapon rack, a wooden palisade corner, a training dummy, and a tall banner pole, blue banner, cream canvas, simple swords and round shields.",
+      "subject_type": "other",
+      "quality_tier": "balanced",
+      "face_limit": 6000,
+      "size": "5.6 x 5.3",
+      "parts": [
+        "Banner"
+      ],
+      "concept": true,
+      "face_sketch": ""
+    },
+    {
+      "id": "barracks_knight",
+      "group": "barracks_camp",
+      "prompt": "small military camp: a pitched canvas tent, a weapon rack, a wooden palisade corner, a training dummy, and a tall banner pole, blue banner, blue canvas, lances and kite shields.",
+      "subject_type": "other",
+      "quality_tier": "balanced",
+      "face_limit": 6000,
+      "size": "5.6 x 5.3",
+      "parts": [
+        "Banner"
+      ],
+      "concept": true,
+      "face_sketch": ""
+    },
+    {
+      "id": "barracks_berserker",
+      "group": "barracks_camp",
+      "prompt": "small military camp: a pitched canvas tent, a weapon rack, a wooden palisade corner, a training dummy, and a tall banner pole, blood-red banner, hide-and-leather tent, axes, a snowy pelt.",
+      "subject_type": "other",
+      "quality_tier": "balanced",
+      "face_limit": 6000,
+      "size": "5.6 x 5.3",
+      "parts": [
+        "Banner"
+      ],
+      "concept": true,
+      "face_sketch": ""
+    },
+    {
+      "id": "barracks_defender",
+      "group": "barracks_camp",
+      "prompt": "small military camp: a pitched canvas tent, a weapon rack, a wooden palisade corner, a training dummy, and a tall banner pole, gold banner, steel-grey canvas, tower shields stacked in a wall.",
+      "subject_type": "other",
+      "quality_tier": "balanced",
+      "face_limit": 6000,
+      "size": "5.6 x 5.3",
+      "parts": [
+        "Banner"
+      ],
+      "concept": true,
+      "face_sketch": ""
+    },
+    {
+      "id": "barracks_dreamknight",
+      "group": "barracks_camp",
+      "prompt": "small military camp: a pitched canvas tent, a weapon rack, a wooden palisade corner, a training dummy, and a tall banner pole, violet banner, deep purple canvas, floating purple motes.",
+      "subject_type": "other",
+      "quality_tier": "balanced",
+      "face_limit": 6000,
+      "size": "5.6 x 5.3",
+      "parts": [
+        "Banner"
+      ],
+      "concept": true,
+      "face_sketch": ""
+    },
+    {
+      "id": "barracks_king",
+      "group": "barracks_camp",
+      "prompt": "small military camp: a pitched canvas tent, a weapon rack, a wooden palisade corner, a training dummy, and a tall banner pole, gold banner, red-and-gold royal pavilion, a small throne.",
+      "subject_type": "other",
+      "quality_tier": "balanced",
+      "face_limit": 6000,
+      "size": "5.6 x 5.3",
+      "parts": [
+        "Banner"
+      ],
+      "concept": true,
+      "face_sketch": ""
+    },
+    {
+      "id": "barracks_golem",
+      "group": "barracks_camp",
+      "prompt": "No tent: a carved rune circle with standing stones, glowing blue runes, 3.3 tall and 5.8 wide.",
+      "subject_type": "other",
+      "quality_tier": "balanced",
+      "face_limit": 6000,
+      "size": "3.3 x 5.8",
+      "parts": [
+        "Banner"
+      ],
+      "concept": true,
+      "face_sketch": ""
+    },
+    {
+      "id": "unit_footman",
+      "group": "barracks_unit",
+      "prompt": "Militia footman in a padded jerkin and kettle helm, short sword and round wooden shield; humble farmhand look.",
+      "subject_type": "biped",
+      "quality_tier": "balanced",
+      "face_limit": 6000,
+      "size": "4.5 x 3.2",
+      "parts": [
+        "Body",
+        "Head",
+        "ArmL",
+        "ArmR",
+        "LegL",
+        "LegR"
+      ],
+      "concept": true,
+      "face_sketch": ""
+    },
+    {
+      "id": "unit_knight",
+      "group": "barracks_unit",
+      "prompt": "Knight in full blue-enameled plate with a closed helm, kite shield and arming sword.",
+      "subject_type": "biped",
+      "quality_tier": "balanced",
+      "face_limit": 6000,
+      "size": "5.5 x 4.2",
+      "parts": [
+        "Body",
+        "Head",
+        "ArmL",
+        "ArmR",
+        "LegL",
+        "LegR"
+      ],
+      "concept": true,
+      "face_sketch": ""
+    },
+    {
+      "id": "unit_berserker",
+      "group": "barracks_unit",
+      "prompt": "Bare-chested northern clansman with a fur mantle, war paint, braided beard and two axes, roaring.",
+      "subject_type": "biped",
+      "quality_tier": "balanced",
+      "face_limit": 6000,
+      "size": "5.9 x 4.6",
+      "parts": [
+        "Body",
+        "Head",
+        "ArmL",
+        "ArmR",
+        "LegL",
+        "LegR"
+      ],
+      "concept": true,
+      "face_sketch": ""
+    },
+    {
+      "id": "unit_defender",
+      "group": "barracks_unit",
+      "prompt": "Heavy guard with a huge rectangular tower shield and a short spear, gold-trimmed steel.",
+      "subject_type": "biped",
+      "quality_tier": "balanced",
+      "face_limit": 6000,
+      "size": "5.4 x 5.4",
+      "parts": [
+        "Body",
+        "Head",
+        "ArmL",
+        "ArmR",
+        "LegL",
+        "LegR"
+      ],
+      "concept": true,
+      "face_sketch": ""
+    },
+    {
+      "id": "unit_golem",
+      "group": "barracks_unit",
+      "prompt": "Rune-bound stone golem: boulder body, glowing blue runes, oversized fists, moss on the shoulders.",
+      "subject_type": "biped",
+      "quality_tier": "high_quality",
+      "face_limit": 6000,
+      "size": "6.8 x 6.8",
+      "parts": [
+        "Body",
+        "Head",
+        "ArmL",
+        "ArmR",
+        "LegL",
+        "LegR"
+      ],
+      "concept": true,
+      "face_sketch": ""
+    },
+    {
+      "id": "unit_dreamknight",
+      "group": "barracks_unit",
+      "prompt": "Knight in dark purple armor with a swirling void-galaxy pattern on the cloak, a glowing violet blade.",
+      "subject_type": "biped",
+      "quality_tier": "balanced",
+      "face_limit": 6000,
+      "size": "5.5 x 4.7",
+      "parts": [
+        "Body",
+        "Head",
+        "ArmL",
+        "ArmR",
+        "LegL",
+        "LegR"
+      ],
+      "concept": true,
+      "face_sketch": ""
+    },
+    {
+      "id": "unit_king",
+      "group": "barracks_unit",
+      "prompt": "The High King in golden plate with a crown on the helm and a royal red cape, a great sword held high.",
+      "subject_type": "biped",
+      "quality_tier": "high_quality",
+      "face_limit": 6000,
+      "size": "6.6 x 6.0",
+      "parts": [
+        "Body",
+        "Head",
+        "ArmL",
+        "ArmR",
+        "LegL",
+        "LegR"
+      ],
+      "concept": true,
+      "face_sketch": ""
+    },
+    {
+      "id": "dark_peasant",
+      "group": "enemy",
+      "prompt": "Hunched village cultist in a ragged brown smock with a pale grey hood, holding a pitchfork, a glowing green eye symbol painted on the chest.",
+      "subject_type": "biped",
+      "quality_tier": "balanced",
+      "face_limit": 6000,
+      "size": "5.2 x 3.1",
+      "parts": [
+        "Body",
+        "Head",
+        "ArmL",
+        "ArmR",
+        "LegL",
+        "LegR"
+      ],
+      "concept": true,
+      "face_sketch": ""
+    },
+    {
+      "id": "lurker",
+      "group": "enemy",
+      "prompt": "Low four-legged shadow creature like a lean hound made of smoke and black chitin, glowing violet eyes, crawling pose.",
+      "subject_type": "quadruped",
+      "quality_tier": "balanced",
+      "face_limit": 6000,
+      "size": "3.0 x 5.0 long",
+      "parts": [
+        "LegL",
+        "LegR",
+        "LegL2",
+        "LegR2"
+      ],
+      "concept": true,
+      "face_sketch": ""
+    },
+    {
+      "id": "dreadbat",
+      "group": "enemy",
+      "prompt": "Giant dusky purple bat with torn wings, glowing red eyes, fangs, wings fully spread (flying pose).",
+      "subject_type": "other",
+      "quality_tier": "balanced",
+      "face_limit": 6000,
+      "size": "2.0 x 7.0 wingspan",
+      "parts": [
+        "WingL",
+        "WingR"
+      ],
+      "concept": true,
+      "face_sketch": ""
+    },
+    {
+      "id": "risen_corpse",
+      "group": "enemy",
+      "prompt": "Shambling barrow zombie in rotting burial wraps and rusty armor scraps, grey-green skin, arms reaching forward.",
+      "subject_type": "biped",
+      "quality_tier": "balanced",
+      "face_limit": 6000,
+      "size": "5.0 x 3.2",
+      "parts": [
+        "Body",
+        "Head",
+        "ArmL",
+        "ArmR",
+        "LegL",
+        "LegR"
+      ],
+      "concept": true,
+      "face_sketch": ""
+    },
+    {
+      "id": "bloated_corpse",
+      "group": "enemy",
+      "prompt": "Grotesquely swollen stitched undead with a huge belly, glowing green pustules, short legs, comical and gross but not gory.",
+      "subject_type": "biped",
+      "quality_tier": "balanced",
+      "face_limit": 6000,
+      "size": "6.9 x 5.7",
+      "parts": [
+        "Body",
+        "Head",
+        "ArmL",
+        "ArmR",
+        "LegL",
+        "LegR"
+      ],
+      "concept": true,
+      "face_sketch": ""
+    },
+    {
+      "id": "wight",
+      "group": "enemy",
+      "prompt": "Skeletal barrow-knight in a rusted helm and torn cloak, sprinting pose, cold blue eye-light, notched sword.",
+      "subject_type": "biped",
+      "quality_tier": "balanced",
+      "face_limit": 6000,
+      "size": "4.6 x 2.7",
+      "parts": [
+        "Body",
+        "Head",
+        "ArmL",
+        "ArmR",
+        "LegL",
+        "LegR"
+      ],
+      "concept": true,
+      "face_sketch": ""
+    },
+    {
+      "id": "spectral_wight",
+      "group": "enemy",
+      "prompt": "Translucent pale-cyan ghost knight with no legs (fading wisp tail), floating, armor outline only.",
+      "subject_type": "biped",
+      "quality_tier": "balanced",
+      "face_limit": 6000,
+      "size": "5.3 x 3.7",
+      "parts": [
+        "Body",
+        "Head",
+        "ArmL",
+        "ArmR"
+      ],
+      "concept": true,
+      "face_sketch": ""
+    },
+    {
+      "id": "necromancer",
+      "group": "enemy",
+      "prompt": "Gaunt necromancer in black and bone-white robes with a skull-topped staff and green soul flames swirling around the hands.",
+      "subject_type": "biped",
+      "quality_tier": "balanced",
+      "face_limit": 6000,
+      "size": "6.2 x 4.5",
+      "parts": [
+        "Body",
+        "Head",
+        "ArmL",
+        "ArmR",
+        "LegL",
+        "LegR"
+      ],
+      "concept": true,
+      "face_sketch": ""
+    },
+    {
+      "id": "dark_prophet",
+      "group": "enemy",
+      "prompt": "Tall doom preacher in tattered grey robes and a tall mitre-like hood, holding a dark book chained to his wrist, pale green halo of doom.",
+      "subject_type": "biped",
+      "quality_tier": "balanced",
+      "face_limit": 6000,
+      "size": "7.0 x 5.1",
+      "parts": [
+        "Body",
+        "Head",
+        "ArmL",
+        "ArmR",
+        "LegL",
+        "LegR"
+      ],
+      "concept": true,
+      "face_sketch": ""
+    },
+    {
+      "id": "gronnling",
+      "group": "enemy",
+      "prompt": "Burly hill ogre mercenary with grey-brown skin, underbite tusks, a fur loincloth and a big wooden club.",
+      "subject_type": "biped",
+      "quality_tier": "balanced",
+      "face_limit": 6000,
+      "size": "5.3 x 5.3",
+      "parts": [
+        "Body",
+        "Head",
+        "ArmL",
+        "ArmR",
+        "LegL",
+        "LegR"
+      ],
+      "concept": true,
+      "face_sketch": ""
+    },
+    {
+      "id": "gronn",
+      "group": "enemy",
+      "prompt": "Massive ogre warlord with iron shoulder plates, a belt made of captured shields, a spiked iron club, a scarred face. Twice the bulk of a hill ogre.",
+      "subject_type": "biped",
+      "quality_tier": "high_quality",
+      "face_limit": 8000,
+      "size": "11.5 x 11.5",
+      "parts": [
+        "Body",
+        "Head",
+        "ArmL",
+        "ArmR",
+        "LegL",
+        "LegR"
+      ],
+      "concept": true,
+      "face_sketch": ""
+    },
+    {
+      "id": "protodrake",
+      "group": "enemy",
+      "prompt": "Young fire drake with dark red-orange scales, glowing ember cracks, horned head, wings spread in flight, long tail.",
+      "subject_type": "other",
+      "quality_tier": "high_quality",
+      "face_limit": 9000,
+      "size": "4.5 x 13.2 wingspan",
+      "parts": [
+        "WingL",
+        "WingR"
+      ],
+      "concept": true,
+      "face_sketch": ""
+    },
+    {
+      "id": "wraith_witch",
+      "group": "enemy",
+      "prompt": "Screaming spectral witch with long flowing white hair, tattered grey-violet dress fading into mist, floating.",
+      "subject_type": "biped",
+      "quality_tier": "balanced",
+      "face_limit": 6000,
+      "size": "6.0 x 5.1",
+      "parts": [
+        "Body",
+        "Head",
+        "ArmL",
+        "ArmR"
+      ],
+      "concept": true,
+      "face_sketch": ""
+    },
+    {
+      "id": "wraith_lord",
+      "group": "enemy",
+      "prompt": "Floating hooded knight in cursed black plate with icy blue eye glow, a frost-rimed greatsword, no visible legs.",
+      "subject_type": "biped",
+      "quality_tier": "balanced",
+      "face_limit": 6000,
+      "size": "6.2 x 5.1",
+      "parts": [
+        "Body",
+        "Head",
+        "ArmL",
+        "ArmR"
+      ],
+      "concept": true,
+      "face_sketch": ""
+    },
+    {
+      "id": "summoner",
+      "group": "enemy",
+      "prompt": "Towering rift-priest in deep violet robes with a ring of floating stone shards and a swirling purple portal disc behind him.",
+      "subject_type": "biped",
+      "quality_tier": "high_quality",
+      "face_limit": 9000,
+      "size": "10.1 x 7.2",
+      "parts": [
+        "Body",
+        "Head",
+        "ArmL",
+        "ArmR",
+        "LegL",
+        "LegR"
+      ],
+      "concept": true,
+      "face_sketch": ""
+    },
+    {
+      "id": "spawn_of_helloc",
+      "group": "enemy",
+      "prompt": "Hunched lesser demon with charred black-red skin, glowing sickly-green cracks, small horns, clawed hands.",
+      "subject_type": "biped",
+      "quality_tier": "high_quality",
+      "face_limit": 8000,
+      "size": "8.2 x 7.1",
+      "parts": [
+        "Body",
+        "Head",
+        "ArmL",
+        "ArmR",
+        "LegL",
+        "LegR"
+      ],
+      "concept": true,
+      "face_sketch": ""
+    },
+    {
+      "id": "moloc",
+      "group": "boss",
+      "prompt": "Colossal winged demon general with heavy black-iron armor, a huge cleaver, a horned skull-like helm and leathery wings. Ruinous and towering.",
+      "subject_type": "biped",
+      "quality_tier": "high_quality",
+      "face_limit": 15000,
+      "size": "16.4 x 21.3",
+      "parts": [
+        "Body",
+        "Head",
+        "ArmL",
+        "ArmR",
+        "LegL",
+        "LegR",
+        "WingL",
+        "WingR"
+      ],
+      "concept": true,
+      "face_sketch": ""
+    },
+    {
+      "id": "helloc",
+      "group": "boss",
+      "prompt": "Final demon lord: enormous, horned, red-black skin with bright gold and sickly-green glowing rune markings for contrast, huge wings, a flaming gate-key staff, a burning aura ring at the feet. Must read clearly against a dark red lava map.",
+      "subject_type": "biped",
+      "quality_tier": "high_quality",
+      "face_limit": 15000,
+      "size": "20.7 x 26.6",
+      "parts": [
+        "Body",
+        "Head",
+        "ArmL",
+        "ArmR",
+        "LegL",
+        "LegR",
+        "WingL",
+        "WingR",
+        "Aura"
+      ],
+      "concept": true,
+      "face_sketch": ""
+    },
+    {
+      "id": "korlash",
+      "group": "boss",
+      "prompt": "Giant sea leviathan rising from water: a domed armored head with glowing teal eyes and eight thick tentacles spread around it, barnacles, deep blue-green.",
+      "subject_type": "other",
+      "quality_tier": "high_quality",
+      "face_limit": 15000,
+      "size": "9.1 x 17.3",
+      "parts": [
+        "T0",
+        "T1",
+        "T2",
+        "T3",
+        "T4",
+        "T5",
+        "T6",
+        "T7"
+      ],
+      "concept": true,
+      "face_sketch": ""
+    },
+    {
+      "id": "castle_gate",
+      "group": "prop",
+      "prompt": "The player's keep gate: twin round stone towers with blue conical roofs, a big wooden portcullis gate between them, gold banners, crenellations. Proud and friendly.",
+      "subject_type": "other",
+      "quality_tier": "fast",
+      "face_limit": 1500,
+      "size": "16 x 16",
+      "parts": [],
+      "concept": true,
+      "face_sketch": ""
+    },
+    {
+      "id": "spawn_portal",
+      "group": "prop",
+      "prompt": "Menacing enemy spawn portal: a ring of jagged black standing stones around a swirling purple-green vortex disc, cracked earth.",
+      "subject_type": "other",
+      "quality_tier": "fast",
+      "face_limit": 1500,
+      "size": "11 x 10.5",
+      "parts": [
+        "Swirl"
+      ],
+      "concept": true,
+      "face_sketch": ""
+    },
+    {
+      "id": "tree_oak",
+      "group": "prop",
+      "prompt": "Round leafy oak tree, chunky trunk, puffy faceted canopy.",
+      "subject_type": "other",
+      "quality_tier": "fast",
+      "face_limit": 1500,
+      "size": "8 x 6.3",
+      "parts": [],
+      "concept": true,
+      "face_sketch": ""
+    },
+    {
+      "id": "tree_pine",
+      "group": "prop",
+      "prompt": "Tall layered pine tree, stylized tiers.",
+      "subject_type": "other",
+      "quality_tier": "fast",
+      "face_limit": 1500,
+      "size": "7.3 x 5",
+      "parts": [],
+      "concept": true,
+      "face_sketch": ""
+    },
+    {
+      "id": "tree_pine_snow",
+      "group": "prop",
+      "prompt": "Tall layered stylized pine tree with thick snow caps on each tier.",
+      "subject_type": "other",
+      "quality_tier": "fast",
+      "face_limit": 1500,
+      "size": "7.3 x 5",
+      "parts": [],
+      "concept": true,
+      "face_sketch": ""
+    },
+    {
+      "id": "tree_palm",
+      "group": "prop",
+      "prompt": "Curved desert palm with broad fronds and coconuts.",
+      "subject_type": "other",
+      "quality_tier": "fast",
+      "face_limit": 1500,
+      "size": "7.5 x 6.2",
+      "parts": [],
+      "concept": true,
+      "face_sketch": ""
+    },
+    {
+      "id": "tree_dead",
+      "group": "prop",
+      "prompt": "Twisted leafless dead tree, grey-black bark.",
+      "subject_type": "other",
+      "quality_tier": "fast",
+      "face_limit": 1500,
+      "size": "5.7 x 4.2",
+      "parts": [],
+      "concept": true,
+      "face_sketch": ""
+    },
+    {
+      "id": "tree_willow",
+      "group": "prop",
+      "prompt": "Drooping swamp willow, mossy, hanging curtains of leaves.",
+      "subject_type": "other",
+      "quality_tier": "fast",
+      "face_limit": 1500,
+      "size": "6.5 x 5.1",
+      "parts": [],
+      "concept": true,
+      "face_sketch": ""
+    },
+    {
+      "id": "bush",
+      "group": "prop",
+      "prompt": "Round leafy shrub.",
+      "subject_type": "other",
+      "quality_tier": "fast",
+      "face_limit": 1500,
+      "size": "1.8 x 3.4",
+      "parts": [],
+      "concept": true,
+      "face_sketch": ""
+    },
+    {
+      "id": "palm_bush",
+      "group": "prop",
+      "prompt": "Low spiky desert fern bush.",
+      "subject_type": "other",
+      "quality_tier": "fast",
+      "face_limit": 1500,
+      "size": "1.1 x 3.1",
+      "parts": [],
+      "concept": true,
+      "face_sketch": ""
+    },
+    {
+      "id": "rock_a",
+      "group": "prop",
+      "prompt": "Faceted grey boulder, chunky stylized rock.",
+      "subject_type": "other",
+      "quality_tier": "fast",
+      "face_limit": 1500,
+      "size": "2 x 3",
+      "parts": [],
+      "concept": true,
+      "face_sketch": ""
+    },
+    {
+      "id": "rock_b",
+      "group": "prop",
+      "prompt": "Faceted grey boulder, wider variant with a flat top.",
+      "subject_type": "other",
+      "quality_tier": "fast",
+      "face_limit": 1500,
+      "size": "2 x 3",
+      "parts": [],
+      "concept": true,
+      "face_sketch": ""
+    },
+    {
+      "id": "rock_snow",
+      "group": "prop",
+      "prompt": "Grey boulder with a snow cap.",
+      "subject_type": "other",
+      "quality_tier": "fast",
+      "face_limit": 1500,
+      "size": "2.1 x 3.8",
+      "parts": [],
+      "concept": true,
+      "face_sketch": ""
+    },
+    {
+      "id": "rock_sand",
+      "group": "prop",
+      "prompt": "Wind-worn sandstone rock, layered orange bands.",
+      "subject_type": "other",
+      "quality_tier": "fast",
+      "face_limit": 1500,
+      "size": "2.9 x 5.3",
+      "parts": [],
+      "concept": true,
+      "face_sketch": ""
+    },
+    {
+      "id": "rock_lava",
+      "group": "prop",
+      "prompt": "Black volcanic rock with glowing orange cracks.",
+      "subject_type": "other",
+      "quality_tier": "fast",
+      "face_limit": 1500,
+      "size": "2.3 x 3.6",
+      "parts": [],
+      "concept": true,
+      "face_sketch": ""
+    },
+    {
+      "id": "crystal_blue",
+      "group": "prop",
+      "prompt": "Cluster of tall glowing blue crystals.",
+      "subject_type": "other",
+      "quality_tier": "fast",
+      "face_limit": 1500,
+      "size": "4 x 2.5",
+      "parts": [],
+      "concept": true,
+      "face_sketch": ""
+    },
+    {
+      "id": "crystal_pink",
+      "group": "prop",
+      "prompt": "Cluster of tall glowing pink crystals.",
+      "subject_type": "other",
+      "quality_tier": "fast",
+      "face_limit": 1500,
+      "size": "4 x 2.5",
+      "parts": [],
+      "concept": true,
+      "face_sketch": ""
+    },
+    {
+      "id": "crystal_green",
+      "group": "prop",
+      "prompt": "Cluster of tall glowing green crystals.",
+      "subject_type": "other",
+      "quality_tier": "fast",
+      "face_limit": 1500,
+      "size": "4 x 2.5",
+      "parts": [],
+      "concept": true,
+      "face_sketch": ""
+    },
+    {
+      "id": "house",
+      "group": "prop",
+      "prompt": "Cozy timber-frame village cottage with a red tiled roof and a chimney.",
+      "subject_type": "other",
+      "quality_tier": "fast",
+      "face_limit": 1500,
+      "size": "7.4 x 6.8",
+      "parts": [],
+      "concept": true,
+      "face_sketch": ""
+    },
+    {
+      "id": "house_tower",
+      "group": "prop",
+      "prompt": "Village watchtower with a stone base, timber top and a pointed roof.",
+      "subject_type": "other",
+      "quality_tier": "fast",
+      "face_limit": 1500,
+      "size": "12.5 x 6.4",
+      "parts": [],
+      "concept": true,
+      "face_sketch": ""
+    },
+    {
+      "id": "desert_tent",
+      "group": "prop",
+      "prompt": "Striped desert merchant tent with rugs and pots.",
+      "subject_type": "other",
+      "quality_tier": "fast",
+      "face_limit": 1500,
+      "size": "3.9 x 6",
+      "parts": [],
+      "concept": true,
+      "face_sketch": ""
+    },
+    {
+      "id": "pillar",
+      "group": "prop",
+      "prompt": "White marble temple column with a simple capital.",
+      "subject_type": "other",
+      "quality_tier": "fast",
+      "face_limit": 1500,
+      "size": "7 x 2-4",
+      "parts": [],
+      "concept": true,
+      "face_sketch": ""
+    },
+    {
+      "id": "pillar_broken",
+      "group": "prop",
+      "prompt": "Broken white marble temple column lying in pieces.",
+      "subject_type": "other",
+      "quality_tier": "fast",
+      "face_limit": 1500,
+      "size": "3.5 x 2-4",
+      "parts": [],
+      "concept": true,
+      "face_sketch": ""
+    },
+    {
+      "id": "stone_arch",
+      "group": "prop",
+      "prompt": "Ancient marble archway with worn carvings.",
+      "subject_type": "other",
+      "quality_tier": "fast",
+      "face_limit": 1500,
+      "size": "7.2 x 9",
+      "parts": [],
+      "concept": true,
+      "face_sketch": ""
+    },
+    {
+      "id": "brazier",
+      "group": "prop",
+      "prompt": "Iron brazier with a warm orange flame.",
+      "subject_type": "other",
+      "quality_tier": "fast",
+      "face_limit": 1500,
+      "size": "3.8 x 1.8",
+      "parts": [
+        "Flame"
+      ],
+      "concept": true,
+      "face_sketch": ""
+    },
+    {
+      "id": "fel_brazier",
+      "group": "prop",
+      "prompt": "Spiky black-iron brazier with a sickly green demonic flame.",
+      "subject_type": "other",
+      "quality_tier": "fast",
+      "face_limit": 1500,
+      "size": "5.3 x 1.9",
+      "parts": [
+        "Flame"
+      ],
+      "concept": true,
+      "face_sketch": ""
+    },
+    {
+      "id": "obelisk",
+      "group": "prop",
+      "prompt": "Black stone obelisk with glowing red runes.",
+      "subject_type": "other",
+      "quality_tier": "fast",
+      "face_limit": 1500,
+      "size": "7.3 x 2.4",
+      "parts": [],
+      "concept": true,
+      "face_sketch": ""
+    },
+    {
+      "id": "mushroom",
+      "group": "prop",
+      "prompt": "Cluster of glowing cave mushrooms.",
+      "subject_type": "other",
+      "quality_tier": "fast",
+      "face_limit": 1500,
+      "size": "1.6 x 2.4",
+      "parts": [],
+      "concept": true,
+      "face_sketch": ""
+    },
+    {
+      "id": "cactus",
+      "group": "prop",
+      "prompt": "Saguaro-style cactus with two arms.",
+      "subject_type": "other",
+      "quality_tier": "fast",
+      "face_limit": 1500,
+      "size": "3.6 x 2.5",
+      "parts": [],
+      "concept": true,
+      "face_sketch": ""
+    },
+    {
+      "id": "bones",
+      "group": "prop",
+      "prompt": "Scattered bleached bones and a skull, lying flat.",
+      "subject_type": "other",
+      "quality_tier": "fast",
+      "face_limit": 1500,
+      "size": "0.7 x 2.3",
+      "parts": [],
+      "concept": true,
+      "face_sketch": ""
+    },
+    {
+      "id": "fence",
+      "group": "prop",
+      "prompt": "Short rustic wooden fence section.",
+      "subject_type": "other",
+      "quality_tier": "fast",
+      "face_limit": 1500,
+      "size": "1.6 x 4.6",
+      "parts": [],
+      "concept": true,
+      "face_sketch": ""
+    },
+    {
+      "id": "ice_spike",
+      "group": "prop",
+      "prompt": "Jagged blue ice spire.",
+      "subject_type": "other",
+      "quality_tier": "fast",
+      "face_limit": 1500,
+      "size": "4.7 x 2.2",
+      "parts": [],
+      "concept": true,
+      "face_sketch": ""
+    },
+    {
+      "id": "reeds",
+      "group": "prop",
+      "prompt": "Clump of swamp reeds and cattails.",
+      "subject_type": "other",
+      "quality_tier": "fast",
+      "face_limit": 1500,
+      "size": "2.8 x 1.6",
+      "parts": [],
+      "concept": true,
+      "face_sketch": ""
+    },
+    {
+      "id": "banner_pole",
+      "group": "prop",
+      "prompt": "Wooden pole with a hanging blue and gold cloth banner.",
+      "subject_type": "other",
+      "quality_tier": "fast",
+      "face_limit": 1500,
+      "size": "6 x 1.7",
+      "parts": [],
+      "concept": true,
+      "face_sketch": ""
+    },
+    {
+      "id": "lava_pool",
+      "group": "prop",
+      "prompt": "Shallow bubbling lava pool with a black rock rim.",
+      "subject_type": "other",
+      "quality_tier": "fast",
+      "face_limit": 1500,
+      "size": "1.8 x 7.4",
+      "parts": [],
+      "concept": true,
+      "face_sketch": ""
+    }
+  ],
+  "images": [
+    {
+      "id": "key_art",
+      "size": "1920x1080",
+      "ratio": "16:9",
+      "transparent": false,
+      "prompt": "Epic key art: a blue-and-gold knight Warden on a hill at dusk, defending a castle gate, with archers and mages on the walls; below, a pale undead horde with green cult banners marches along a winding road toward the gate. A huge horned demon silhouette looms in a red sky far behind. Painterly, heroic, wide composition with an empty top-center area for the logo."
+    },
+    {
+      "id": "logo",
+      "size": "1600x600",
+      "ratio": "8:3",
+      "transparent": true,
+      "prompt": "Game logo reading REALM WARDENS in carved gold fantasy capitals with a stone-and-steel bevel, a small sword and shield crest behind it, transparent background."
+    },
+    {
+      "id": "map_meadows",
+      "size": "800x450",
+      "ratio": "16:9",
+      "transparent": false,
+      "prompt": "Map card illustration, top-down three-quarter view of a winding road through a green river village with red-roof cottages, stylized hand-painted fantasy game art, chunky readable shapes, warm saturated palette, no text."
+    },
+    {
+      "id": "map_oasis",
+      "size": "800x450",
+      "ratio": "16:9",
+      "transparent": false,
+      "prompt": "Map card illustration, top-down three-quarter view of a winding road through a sandstone desert spring with palms, stylized hand-painted fantasy game art, chunky readable shapes, warm saturated palette, no text."
+    },
+    {
+      "id": "map_fjord",
+      "size": "800x450",
+      "ratio": "16:9",
+      "transparent": false,
+      "prompt": "Map card illustration, top-down three-quarter view of a winding road through frozen glacial switchbacks above a frozen sea, stylized hand-painted fantasy game art, chunky readable shapes, warm saturated palette, no text."
+    },
+    {
+      "id": "map_caverns",
+      "size": "800x450",
+      "ratio": "16:9",
+      "transparent": false,
+      "prompt": "Map card illustration, top-down three-quarter view of a winding road through a dark crystal cave with violet and cyan crystals, stylized hand-painted fantasy game art, chunky readable shapes, warm saturated palette, no text."
+    },
+    {
+      "id": "map_marrowfen",
+      "size": "800x450",
+      "ratio": "16:9",
+      "transparent": false,
+      "prompt": "Map card illustration, top-down three-quarter view of a winding road through a foggy rotting swamp with two causeways, stylized hand-painted fantasy game art, chunky readable shapes, warm saturated palette, no text."
+    },
+    {
+      "id": "map_requiem",
+      "size": "800x450",
+      "ratio": "16:9",
+      "transparent": false,
+      "prompt": "Map card illustration, top-down three-quarter view of a winding road through a moonlit white-marble necropolis, stylized hand-painted fantasy game art, chunky readable shapes, warm saturated palette, no text."
+    },
+    {
+      "id": "map_ashengate",
+      "size": "800x450",
+      "ratio": "16:9",
+      "transparent": false,
+      "prompt": "Map card illustration, top-down three-quarter view of a winding road through burning lava steppes before a giant demon gate, stylized hand-painted fantasy game art, chunky readable shapes, warm saturated palette, no text."
+    },
+    {
+      "id": "badge_first_watch",
+      "size": "256x256",
+      "ratio": "1:1",
+      "transparent": true,
+      "prompt": "Round bronze medallion achievement badge featuring a single torch, carved metal, chunky fantasy game icon, centered, transparent background, no text."
+    },
+    {
+      "id": "badge_unbroken_wall",
+      "size": "256x256",
+      "ratio": "1:1",
+      "transparent": true,
+      "prompt": "Round bronze medallion achievement badge featuring an intact shield wall, carved metal, chunky fantasy game icon, centered, transparent background, no text."
+    },
+    {
+      "id": "badge_warden_five_roads",
+      "size": "256x256",
+      "ratio": "1:1",
+      "transparent": true,
+      "prompt": "Round bronze medallion achievement badge featuring five crossing roads, carved metal, chunky fantasy game icon, centered, transparent background, no text."
+    },
+    {
+      "id": "badge_iron_resolve",
+      "size": "256x256",
+      "ratio": "1:1",
+      "transparent": true,
+      "prompt": "Round bronze medallion achievement badge featuring an iron fist, carved metal, chunky fantasy game icon, centered, transparent background, no text."
+    },
+    {
+      "id": "badge_legend_elderhold",
+      "size": "256x256",
+      "ratio": "1:1",
+      "transparent": true,
+      "prompt": "Round bronze medallion achievement badge featuring a laurel crown, carved metal, chunky fantasy game icon, centered, transparent background, no text."
+    },
+    {
+      "id": "badge_long_night",
+      "size": "256x256",
+      "ratio": "1:1",
+      "transparent": true,
+      "prompt": "Round bronze medallion achievement badge featuring a moon over a watchtower, carved metal, chunky fantasy game icon, centered, transparent background, no text."
+    },
+    {
+      "id": "badge_challenger",
+      "size": "256x256",
+      "ratio": "1:1",
+      "transparent": true,
+      "prompt": "Round bronze medallion achievement badge featuring crossed swords, carved metal, chunky fantasy game icon, centered, transparent background, no text."
+    },
+    {
+      "id": "badge_master_trials",
+      "size": "256x256",
+      "ratio": "1:1",
+      "transparent": true,
+      "prompt": "Round bronze medallion achievement badge featuring a trophy, carved metal, chunky fantasy game icon, centered, transparent background, no text."
+    },
+    {
+      "id": "badge_ten_thousand_fallen",
+      "size": "256x256",
+      "ratio": "1:1",
+      "transparent": true,
+      "prompt": "Round bronze medallion achievement badge featuring a skull pile, carved metal, chunky fantasy game icon, centered, transparent background, no text."
+    },
+    {
+      "id": "badge_devoted",
+      "size": "256x256",
+      "ratio": "1:1",
+      "transparent": true,
+      "prompt": "Round bronze medallion achievement badge featuring a sunrise calendar, carved metal, chunky fantasy game icon, centered, transparent background, no text."
+    }
+  ]
+}
